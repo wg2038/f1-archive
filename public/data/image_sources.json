@@ -1,0 +1,950 @@
+{
+  "drivers": {
+    "raikkonen": {
+      "driver_id": "raikkonen",
+      "name": "Kimi R\u00e4ikk\u00f6nen",
+      "wiki_url": "https://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/F12019_Schloss_Gabelhofen_%2822%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/raikkonen.jpg",
+      "status": "success"
+    },
+    "alonso": {
+      "driver_id": "alonso",
+      "name": "Fernando Alonso",
+      "wiki_url": "https://en.wikipedia.org/wiki/Fernando_Alonso",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Alonso-68_%2824710447098%29.jpg/960px-Alonso-68_%2824710447098%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/alonso.jpg",
+      "status": "success"
+    },
+    "kobayashi": {
+      "driver_id": "kobayashi",
+      "name": "Kamui Kobayashi",
+      "wiki_url": "https://en.wikipedia.org/wiki/Kamui_Kobayashi",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kamui_Kobayashi_2024_WEC_Fuji_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/kobayashi.jpg",
+      "status": "success"
+    },
+    "perez": {
+      "driver_id": "perez",
+      "name": "Sergio P\u00e9rez",
+      "wiki_url": "https://en.wikipedia.org/wiki/Sergio_P%C3%A9rez",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sergio_P%C3%A9rez_2019_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/perez.jpg",
+      "status": "success"
+    },
+    "hamilton": {
+      "driver_id": "hamilton",
+      "name": "Lewis Hamilton",
+      "wiki_url": "https://en.wikipedia.org/wiki/Lewis_Hamilton",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/960px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/hamilton.jpg",
+      "status": "success"
+    },
+    "vettel": {
+      "driver_id": "vettel",
+      "name": "Sebastian Vettel",
+      "wiki_url": "https://en.wikipedia.org/wiki/Sebastian_Vettel",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sebastian_Vettel_2011_Sebastian_Vettel_in_Yokohama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/vettel.jpg",
+      "status": "success"
+    },
+    "button": {
+      "driver_id": "button",
+      "name": "Jenson Button",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jenson_Button",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Jenson_Button_2024_WEC_Fuji.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/button.jpg",
+      "status": "success"
+    },
+    "ricciardo": {
+      "driver_id": "ricciardo",
+      "name": "Daniel Ricciardo",
+      "wiki_url": "https://en.wikipedia.org/wiki/Daniel_Ricciardo",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Daniel_Ricciardo_January_2024.jpg/960px-Daniel_Ricciardo_January_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/ricciardo.jpg",
+      "status": "success"
+    },
+    "webber": {
+      "driver_id": "webber",
+      "name": "Mark Webber",
+      "wiki_url": "https://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mark_Webber_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8720%29.jpg/960px-Mark_Webber_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8720%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/webber.jpg",
+      "status": "success"
+    },
+    "rosberg": {
+      "driver_id": "rosberg",
+      "name": "Nico Rosberg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Nico_Rosberg",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nico_Rosberg_2016.jpg/960px-Nico_Rosberg_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/rosberg.jpg",
+      "status": "success"
+    },
+    "maldonado": {
+      "driver_id": "maldonado",
+      "name": "Pastor Maldonado",
+      "wiki_url": "https://en.wikipedia.org/wiki/Pastor_Maldonado",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Pastor_Maldonado_2015_Malaysia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/maldonado.jpg",
+      "status": "success"
+    },
+    "resta": {
+      "driver_id": "resta",
+      "name": "Paul di Resta",
+      "wiki_url": "https://en.wikipedia.org/wiki/Paul_di_Resta",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Paul_di_Resta_2022_%28cropped%29.jpg/960px-Paul_di_Resta_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/resta.jpg",
+      "status": "success"
+    },
+    "pic": {
+      "driver_id": "pic",
+      "name": "Charles Pic",
+      "wiki_url": "https://en.wikipedia.org/wiki/Charles_Pic",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Charles_Pic_Moscow_2013.jpg/960px-Charles_Pic_Moscow_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/pic.jpg",
+      "status": "success"
+    },
+    "vergne": {
+      "driver_id": "vergne",
+      "name": "Jean-\u00c9ric Vergne",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Jean-Eric_Vergne_2024_WEC_Fuji.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/vergne.jpg",
+      "status": "success"
+    },
+    "glock": {
+      "driver_id": "glock",
+      "name": "Timo Glock",
+      "wiki_url": "https://en.wikipedia.org/wiki/Timo_Glock",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2025-04-26_Motorsport%2C_DTM%2C_Oschersleben_STP_2988_%28cropped%29.jpg/960px-2025-04-26_Motorsport%2C_DTM%2C_Oschersleben_STP_2988_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/glock.jpg",
+      "status": "success"
+    },
+    "kovalainen": {
+      "driver_id": "kovalainen",
+      "name": "Heikki Kovalainen",
+      "wiki_url": "https://en.wikipedia.org/wiki/Heikki_Kovalainen",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Effect_20190609_091716.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/kovalainen.jpg",
+      "status": "success"
+    },
+    "bruno_senna": {
+      "driver_id": "bruno_senna",
+      "name": "Bruno Senna",
+      "wiki_url": "https://en.wikipedia.org/wiki/Bruno_Senna",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Senna_by_United_Autosports_team_04.jpg/960px-Senna_by_United_Autosports_team_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/bruno_senna.jpg",
+      "status": "success"
+    },
+    "petrov": {
+      "driver_id": "petrov",
+      "name": "Vitaly Petrov",
+      "wiki_url": "https://en.wikipedia.org/wiki/Vitaly_Petrov",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Vitaly_Petrov_2010_Malaysia_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/petrov.jpg",
+      "status": "success"
+    },
+    "michael_schumacher": {
+      "driver_id": "michael_schumacher",
+      "name": "Michael Schumacher",
+      "wiki_url": "https://en.wikipedia.org/wiki/Michael_Schumacher",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Michael_Schumacher%2C_September_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/michael_schumacher.jpg",
+      "status": "success"
+    },
+    "karthikeyan": {
+      "driver_id": "karthikeyan",
+      "name": "Narain Karthikeyan",
+      "wiki_url": "https://en.wikipedia.org/wiki/Narain_Karthikeyan",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Narain_Karthikeyan_2011_Malaysia2.jpg/960px-Narain_Karthikeyan_2011_Malaysia2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/karthikeyan.jpg",
+      "status": "success"
+    },
+    "hulkenberg": {
+      "driver_id": "hulkenberg",
+      "name": "Nico H\u00fclkenberg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2019_Formula_One_tests_Barcelona%2C_Hulkenberg_%2840287128313%29.jpg/960px-2019_Formula_One_tests_Barcelona%2C_Hulkenberg_%2840287128313%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/hulkenberg.jpg",
+      "status": "success"
+    },
+    "grosjean": {
+      "driver_id": "grosjean",
+      "name": "Romain Grosjean",
+      "wiki_url": "https://en.wikipedia.org/wiki/Romain_Grosjean",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Grosjean_at_2024_Chevrolet_Detroit_Grand_Prix.jpg/960px-Grosjean_at_2024_Chevrolet_Detroit_Grand_Prix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/grosjean.jpg",
+      "status": "success"
+    },
+    "rosa": {
+      "driver_id": "rosa",
+      "name": "Pedro de la Rosa",
+      "wiki_url": "https://en.wikipedia.org/wiki/Pedro_de_la_Rosa",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Pedro_de_la_Rosa_2010_Malaysia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/rosa.jpg",
+      "status": "success"
+    },
+    "nasr": {
+      "driver_id": "nasr",
+      "name": "Felipe Nasr",
+      "wiki_url": "https://en.wikipedia.org/wiki/Felipe_Nasr",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Piloto_Felipe_Nasr_fala_%C3%A0_imprensa_ap%C3%B3s_encontro_com_Temer_%2828412246304%29_%28cropped%29.jpg/960px-Piloto_Felipe_Nasr_fala_%C3%A0_imprensa_ap%C3%B3s_encontro_com_Temer_%2828412246304%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/nasr.jpg",
+      "status": "success"
+    },
+    "max_verstappen": {
+      "driver_id": "max_verstappen",
+      "name": "Max Verstappen",
+      "wiki_url": "https://en.wikipedia.org/wiki/Max_Verstappen",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg/960px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/max_verstappen.jpg",
+      "status": "success"
+    },
+    "massa": {
+      "driver_id": "massa",
+      "name": "Felipe Massa",
+      "wiki_url": "https://en.wikipedia.org/wiki/Felipe_Massa",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Felipe_Massa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/massa.jpg",
+      "status": "success"
+    },
+    "ericsson": {
+      "driver_id": "ericsson",
+      "name": "Marcus Ericsson",
+      "wiki_url": "https://en.wikipedia.org/wiki/Marcus_Ericsson",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Marcus_Ericsson_in_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/ericsson.jpg",
+      "status": "success"
+    },
+    "bottas": {
+      "driver_id": "bottas",
+      "name": "Valtteri Bottas",
+      "wiki_url": "https://en.wikipedia.org/wiki/Valtteri_Bottas",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Valtteri_Bottas_at_the_2026_Adelaide_Motorsport_Festival_%28028A7556%29.jpg/960px-Valtteri_Bottas_at_the_2026_Adelaide_Motorsport_Festival_%28028A7556%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/bottas.jpg",
+      "status": "success"
+    },
+    "sainz": {
+      "driver_id": "sainz",
+      "name": "Carlos Sainz",
+      "wiki_url": "https://en.wikipedia.org/wiki/Carlos_Sainz_Jr.",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Formula1Gabelhofen2022_%2804%29_%28cropped2%29.jpg/960px-Formula1Gabelhofen2022_%2804%29_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/sainz.jpg",
+      "status": "success"
+    },
+    "merhi": {
+      "driver_id": "merhi",
+      "name": "Roberto Merhi",
+      "wiki_url": "https://en.wikipedia.org/wiki/Roberto_Merhi",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Merhi_Sepang_25.jpg/960px-Merhi_Sepang_25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/merhi.jpg",
+      "status": "success"
+    },
+    "kevin_magnussen": {
+      "driver_id": "kevin_magnussen",
+      "name": "Kevin Magnussen",
+      "wiki_url": "https://en.wikipedia.org/wiki/Kevin_Magnussen",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kevin_Magnussen%2C_2019_Formula_One_Tests_Barcelona_%28cropped%29.jpg/960px-Kevin_Magnussen%2C_2019_Formula_One_Tests_Barcelona_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/kevin_magnussen.jpg",
+      "status": "success"
+    },
+    "kvyat": {
+      "driver_id": "kvyat",
+      "name": "Daniil Kvyat",
+      "wiki_url": "https://en.wikipedia.org/wiki/Daniil_Kvyat",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Daniil_Kvyat_2024_Suzuka_A2RL_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/kvyat.jpg",
+      "status": "success"
+    },
+    "villeneuve": {
+      "driver_id": "villeneuve",
+      "name": "Jacques Villeneuve",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jacques_Villeneuve",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jacques_Villeneuve_Peugeot_208_T16_Lydden_Hill_2014_006_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/villeneuve.jpg",
+      "status": "success"
+    },
+    "stevens": {
+      "driver_id": "stevens",
+      "name": "Will Stevens",
+      "wiki_url": "https://en.wikipedia.org/wiki/Will_Stevens",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Will_Stevens_2017.jpg/960px-Will_Stevens_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/stevens.jpg",
+      "status": "success"
+    },
+    "barrichello": {
+      "driver_id": "barrichello",
+      "name": "Rubens Barrichello",
+      "wiki_url": "https://en.wikipedia.org/wiki/Rubens_Barrichello",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Rubinho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/barrichello.jpg",
+      "status": "success"
+    },
+    "gene": {
+      "driver_id": "gene",
+      "name": "Marc Gen\u00e9",
+      "wiki_url": "https://en.wikipedia.org/wiki/Marc_Gen%C3%A9",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Marc_Gene_2007_Montjuic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/gene.jpg",
+      "status": "success"
+    },
+    "heidfeld": {
+      "driver_id": "heidfeld",
+      "name": "Nick Heidfeld",
+      "wiki_url": "https://en.wikipedia.org/wiki/Nick_Heidfeld",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nick_Heidfeld_Goodwood_Festival_of_Speed_2019_%2848242681251%29.jpg/960px-Nick_Heidfeld_Goodwood_Festival_of_Speed_2019_%2848242681251%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/heidfeld.jpg",
+      "status": "success"
+    },
+    "fisichella": {
+      "driver_id": "fisichella",
+      "name": "Giancarlo Fisichella",
+      "wiki_url": "https://en.wikipedia.org/wiki/Giancarlo_Fisichella",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Giancarlo_Fisichella_2012_WEC_Fuji.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/fisichella.jpg",
+      "status": "success"
+    },
+    "zonta": {
+      "driver_id": "zonta",
+      "name": "Ricardo Zonta",
+      "wiki_url": "https://en.wikipedia.org/wiki/Ricardo_Zonta",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ricardo_Zonta_2007_Curitiba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/zonta.jpg",
+      "status": "success"
+    },
+    "ralf_schumacher": {
+      "driver_id": "ralf_schumacher",
+      "name": "Ralf Schumacher",
+      "wiki_url": "https://en.wikipedia.org/wiki/Ralf_Schumacher",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ralf_Schumacher%2C_2016.png/960px-Ralf_Schumacher%2C_2016.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/ralf_schumacher.jpg",
+      "status": "success"
+    },
+    "wurz": {
+      "driver_id": "wurz",
+      "name": "Alexander Wurz",
+      "wiki_url": "https://en.wikipedia.org/wiki/Alexander_Wurz",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Alexander_Wurz_-_2016_24_Hours_of_Le_Mans_-_Pit_Walk_%28cropped%29.jpg/960px-Alexander_Wurz_-_2016_24_Hours_of_Le_Mans_-_Pit_Walk_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/wurz.jpg",
+      "status": "success"
+    },
+    "salo": {
+      "driver_id": "salo",
+      "name": "Mika Salo",
+      "wiki_url": "https://en.wikipedia.org/wiki/Mika_Salo",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mika_Salo_Le_Mans_2009_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/salo.jpg",
+      "status": "success"
+    },
+    "diniz": {
+      "driver_id": "diniz",
+      "name": "Pedro Diniz",
+      "wiki_url": "https://en.wikipedia.org/wiki/Pedro_Diniz",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fazenda_da_Toca_foto_kiko_ferrite_02295_-_Pedro_Paulo_Diniz_%28cropped%29.jpg/960px-Fazenda_da_Toca_foto_kiko_ferrite_02295_-_Pedro_Paulo_Diniz_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/diniz.jpg",
+      "status": "success"
+    },
+    "hakkinen": {
+      "driver_id": "hakkinen",
+      "name": "Mika H\u00e4kkinen",
+      "wiki_url": "https://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mika_H%C3%A4kkinen_Champions_for_Charity_2016-07-27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/hakkinen.jpg",
+      "status": "success"
+    },
+    "trulli": {
+      "driver_id": "trulli",
+      "name": "Jarno Trulli",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jarno_Trulli",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/12._Internationale_Sportnacht_Davos_2014_%2815246044859%29_%28cropped%29.jpg/960px-12._Internationale_Sportnacht_Davos_2014_%2815246044859%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/trulli.jpg",
+      "status": "success"
+    },
+    "irvine": {
+      "driver_id": "irvine",
+      "name": "Eddie Irvine",
+      "wiki_url": "https://en.wikipedia.org/wiki/Eddie_Irvine",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Eddie_Irvine_after_the_1999_Australian_Grand_Prix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/irvine.jpg",
+      "status": "success"
+    },
+    "mazzacane": {
+      "driver_id": "mazzacane",
+      "name": "Gast\u00f3n Mazzacane",
+      "wiki_url": "https://en.wikipedia.org/wiki/Gast%C3%B3n_Mazzacane",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Gaston_Mazzacane_2018_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/mazzacane.jpg",
+      "status": "success"
+    },
+    "frentzen": {
+      "driver_id": "frentzen",
+      "name": "Heinz-Harald Frentzen",
+      "wiki_url": "https://en.wikipedia.org/wiki/Heinz-Harald_Frentzen",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Heinz-Harald_Frentzen_a_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/frentzen.jpg",
+      "status": "success"
+    },
+    "alesi": {
+      "driver_id": "alesi",
+      "name": "Jean Alesi",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jean_Alesi",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Jean_Alesi%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0047%29.jpg/960px-Jean_Alesi%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0047%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/alesi.jpg",
+      "status": "success"
+    },
+    "coulthard": {
+      "driver_id": "coulthard",
+      "name": "David Coulthard",
+      "wiki_url": "https://en.wikipedia.org/wiki/David_Coulthard",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/David_Coulthard_at_the_2025_Adelaide_Grand_Final_Parade_-_12.jpg/960px-David_Coulthard_at_the_2025_Adelaide_Grand_Final_Parade_-_12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/coulthard.jpg",
+      "status": "success"
+    },
+    "verstappen": {
+      "driver_id": "verstappen",
+      "name": "Jos Verstappen",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jos_Verstappen",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Jos_Verstappen%2C_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/verstappen.jpg",
+      "status": "success"
+    },
+    "herbert": {
+      "driver_id": "herbert",
+      "name": "Johnny Herbert",
+      "wiki_url": "https://en.wikipedia.org/wiki/Johnny_Herbert",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johnny_Herbert_%2831729263593%29.jpg/960px-Johnny_Herbert_%2831729263593%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/herbert.jpg",
+      "status": "success"
+    },
+    "liuzzi": {
+      "driver_id": "liuzzi",
+      "name": "Vitantonio Liuzzi",
+      "wiki_url": "https://en.wikipedia.org/wiki/Vitantonio_Liuzzi",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vitantonio_Liuzzi_2011_Malaysia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/liuzzi.jpg",
+      "status": "success"
+    },
+    "davidson": {
+      "driver_id": "davidson",
+      "name": "Anthony Davidson",
+      "wiki_url": "https://en.wikipedia.org/wiki/Anthony_Davidson",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Anthony_Davidson_Goodwood_Festival_of_Speed_2019_%2848242774922%29.jpg/960px-Anthony_Davidson_Goodwood_Festival_of_Speed_2019_%2848242774922%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/davidson.jpg",
+      "status": "success"
+    },
+    "sutil": {
+      "driver_id": "sutil",
+      "name": "Adrian Sutil",
+      "wiki_url": "https://en.wikipedia.org/wiki/Adrian_Sutil",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adrian_Sutil.jpg/960px-Adrian_Sutil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/sutil.jpg",
+      "status": "success"
+    },
+    "stroll": {
+      "driver_id": "stroll",
+      "name": "Lance Stroll",
+      "wiki_url": "https://en.wikipedia.org/wiki/Lance_Stroll",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2025_Japan_GP_-_Aston_Martin_-_Lance_Stroll_-_Fanzone_Stage_%28cropped%29.jpg/960px-2025_Japan_GP_-_Aston_Martin_-_Lance_Stroll_-_Fanzone_Stage_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/stroll.jpg",
+      "status": "success"
+    },
+    "speed": {
+      "driver_id": "speed",
+      "name": "Scott Speed",
+      "wiki_url": "https://en.wikipedia.org/wiki/Scott_Speed",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Scott_Speed_at_the_2025_Adelaide_Grand_Final_-_04.jpg/960px-Scott_Speed_at_the_2025_Adelaide_Grand_Final_-_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/speed.jpg",
+      "status": "success"
+    },
+    "albers": {
+      "driver_id": "albers",
+      "name": "Christijan Albers",
+      "wiki_url": "https://en.wikipedia.org/wiki/Christijan_Albers",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Christijan_Albers_2006_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/albers.jpg",
+      "status": "success"
+    },
+    "sato": {
+      "driver_id": "sato",
+      "name": "Takuma Sato",
+      "wiki_url": "https://en.wikipedia.org/wiki/Takuma_Sato",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Takuma_Sato_%282021%29.jpg/960px-Takuma_Sato_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/sato.jpg",
+      "status": "success"
+    },
+    "kubica": {
+      "driver_id": "kubica",
+      "name": "Robert Kubica",
+      "wiki_url": "https://en.wikipedia.org/wiki/Robert_Kubica",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Robert_Kubica_at_Monza_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/kubica.jpg",
+      "status": "success"
+    },
+    "gasly": {
+      "driver_id": "gasly",
+      "name": "Pierre Gasly",
+      "wiki_url": "https://en.wikipedia.org/wiki/Pierre_Gasly",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/2022_French_Grand_Prix_%2852279066548%29_%28cropped%29_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/gasly.jpg",
+      "status": "success"
+    },
+    "russell": {
+      "driver_id": "russell",
+      "name": "George Russell",
+      "wiki_url": "https://en.wikipedia.org/wiki/George_Russell_(racing_driver)",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg/960px-KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/russell.jpg",
+      "status": "success"
+    },
+    "zhou": {
+      "driver_id": "zhou",
+      "name": "Guanyu Zhou",
+      "wiki_url": "https://en.wikipedia.org/wiki/Zhou_Guanyu",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Zhou_Guanyu_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A7999%29.jpg/960px-Zhou_Guanyu_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A7999%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/zhou.jpg",
+      "status": "success"
+    },
+    "albon": {
+      "driver_id": "albon",
+      "name": "Alexander Albon",
+      "wiki_url": "http://en.wikipedia.org/wiki/Alexander_Albon",
+      "image_source_url": "N/A",
+      "local_path": "N/A",
+      "status": "not_found"
+    },
+    "sargeant": {
+      "driver_id": "sargeant",
+      "name": "Logan Sargeant",
+      "wiki_url": "https://en.wikipedia.org/wiki/Logan_Sargeant",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logan_Sargeant_NYC_%28cropped%29.jpg/960px-Logan_Sargeant_NYC_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/sargeant.jpg",
+      "status": "success"
+    },
+    "tsunoda": {
+      "driver_id": "tsunoda",
+      "name": "Yuki Tsunoda",
+      "wiki_url": "https://en.wikipedia.org/wiki/Yuki_Tsunoda",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Yuki_Tsunoda_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8096%29.jpg/960px-Yuki_Tsunoda_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8096%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/tsunoda.jpg",
+      "status": "success"
+    },
+    "norris": {
+      "driver_id": "norris",
+      "name": "Lando Norris",
+      "wiki_url": "https://en.wikipedia.org/wiki/Lando_Norris",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg/960px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/norris.jpg",
+      "status": "success"
+    },
+    "de_vries": {
+      "driver_id": "de_vries",
+      "name": "Nyck de Vries",
+      "wiki_url": "https://en.wikipedia.org/wiki/Nyck_de_Vries",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/TGR_Nyck_de_Vries_240908.jpg/960px-TGR_Nyck_de_Vries_240908.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/de_vries.jpg",
+      "status": "failed"
+    },
+    "leclerc": {
+      "driver_id": "leclerc",
+      "name": "Charles Leclerc",
+      "wiki_url": "https://en.wikipedia.org/wiki/Charles_Leclerc",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg/960px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3978_by_Stepro_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/leclerc.jpg",
+      "status": "success"
+    },
+    "ocon": {
+      "driver_id": "ocon",
+      "name": "Esteban Ocon",
+      "wiki_url": "https://en.wikipedia.org/wiki/Esteban_Ocon",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Esteban_Ocon_2024_Suzuka_%28cropped%29.jpg/960px-Esteban_Ocon_2024_Suzuka_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/ocon.jpg",
+      "status": "failed"
+    },
+    "piastri": {
+      "driver_id": "piastri",
+      "name": "Oscar Piastri",
+      "wiki_url": "https://en.wikipedia.org/wiki/Oscar_Piastri",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg/960px-2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/piastri.jpg",
+      "status": "success"
+    },
+    "montoya": {
+      "driver_id": "montoya",
+      "name": "Juan Pablo Montoya",
+      "wiki_url": "https://en.wikipedia.org/wiki/Juan_Pablo_Montoya",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DSC1509_%2851683678455%29%28cropped%29.jpg/960px-DSC1509_%2851683678455%29%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/montoya.jpg",
+      "status": "failed"
+    },
+    "klien": {
+      "driver_id": "klien",
+      "name": "Christian Klien",
+      "wiki_url": "https://en.wikipedia.org/wiki/Christian_Klien",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Christian_Klien_2.jpg/960px-Christian_Klien_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/klien.jpg",
+      "status": "failed"
+    },
+    "panis": {
+      "driver_id": "panis",
+      "name": "Olivier Panis",
+      "wiki_url": "https://en.wikipedia.org/wiki/Olivier_Panis",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Paris_-_Retromobile_2012_-_Olivier_Panis_-_Fiskens_-_006.jpg/960px-Paris_-_Retromobile_2012_-_Olivier_Panis_-_Fiskens_-_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/panis.jpg",
+      "status": "failed"
+    },
+    "ide": {
+      "driver_id": "ide",
+      "name": "Yuji Ide",
+      "wiki_url": "https://en.wikipedia.org/wiki/Yuji_Ide",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Yuji_Ide_2010_Super_GT_Fuji_400km.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/ide.jpg",
+      "status": "failed"
+    },
+    "monteiro": {
+      "driver_id": "monteiro",
+      "name": "Tiago Monteiro",
+      "wiki_url": "https://en.wikipedia.org/wiki/Tiago_Monteiro",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tiago_monteiro_spafrancorchamps2014_%28cropped%29.JPG/960px-Tiago_monteiro_spafrancorchamps2014_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/monteiro.jpg",
+      "status": "failed"
+    },
+    "bearman": {
+      "driver_id": "bearman",
+      "name": "Oliver Bearman",
+      "wiki_url": "https://en.wikipedia.org/wiki/Oliver_Bearman",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg/960px-2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/bearman.jpg",
+      "status": "success"
+    },
+    "burti": {
+      "driver_id": "burti",
+      "name": "Luciano Burti",
+      "wiki_url": "https://en.wikipedia.org/wiki/Luciano_Burti",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Luciano_Burti_in_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/burti.jpg",
+      "status": "failed"
+    },
+    "marques": {
+      "driver_id": "marques",
+      "name": "Tarso Marques",
+      "wiki_url": "https://en.wikipedia.org/wiki/Tarso_Marques",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tarso_lifestyle_%2834%29.jpg/960px-Tarso_lifestyle_%2834%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/marques.jpg",
+      "status": "failed"
+    },
+    "antonelli": {
+      "driver_id": "antonelli",
+      "name": "Andrea Kimi Antonelli",
+      "wiki_url": "https://en.wikipedia.org/wiki/Kimi_Antonelli",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin%2C_TX_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/antonelli.jpg",
+      "status": "success"
+    },
+    "bernoldi": {
+      "driver_id": "bernoldi",
+      "name": "Enrique Bernoldi",
+      "wiki_url": "https://en.wikipedia.org/wiki/Enrique_Bernoldi",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Enrique_Bernoldi_2007_Curitiba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/bernoldi.jpg",
+      "status": "failed"
+    },
+    "jules_bianchi": {
+      "driver_id": "jules_bianchi",
+      "name": "Jules Bianchi",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jules_Bianchi",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jules_Bianchi_2012-1.JPG/960px-Jules_Bianchi_2012-1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/jules_bianchi.jpg",
+      "status": "success"
+    },
+    "lawson": {
+      "driver_id": "lawson",
+      "name": "Liam Lawson",
+      "wiki_url": "https://en.wikipedia.org/wiki/Liam_Lawson",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7795%29.jpg/960px-Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7795%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/lawson.jpg",
+      "status": "success"
+    },
+    "bortoleto": {
+      "driver_id": "bortoleto",
+      "name": "Gabriel Bortoleto",
+      "wiki_url": "https://en.wikipedia.org/wiki/Gabriel_Bortoleto",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gabriel_Bortoleto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8581%29_cropped.jpg/960px-Gabriel_Bortoleto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8581%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/bortoleto.jpg",
+      "status": "success"
+    },
+    "gutierrez": {
+      "driver_id": "gutierrez",
+      "name": "Esteban Guti\u00e9rrez",
+      "wiki_url": "https://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Esteban_Guti%C3%A9rrez_en_el_Gran_Premio_de_Italia_2019_%28cropped%29.jpg/960px-Esteban_Guti%C3%A9rrez_en_el_Gran_Premio_de_Italia_2019_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/gutierrez.jpg",
+      "status": "failed"
+    },
+    "chilton": {
+      "driver_id": "chilton",
+      "name": "Max Chilton",
+      "wiki_url": "https://en.wikipedia.org/wiki/Max_Chilton",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Max_Chilton_2.jpg/960px-Max_Chilton_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/chilton.jpg",
+      "status": "failed"
+    },
+    "doohan": {
+      "driver_id": "doohan",
+      "name": "Jack Doohan",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jack_Doohan",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Jack_Doohan_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/doohan.jpg",
+      "status": "failed"
+    },
+    "garde": {
+      "driver_id": "garde",
+      "name": "Giedo van der Garde",
+      "wiki_url": "https://en.wikipedia.org/wiki/Giedo_van_der_Garde",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Giedo_van_der_Garde.jpg/960px-Giedo_van_der_Garde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/garde.jpg",
+      "status": "failed"
+    },
+    "giovinazzi": {
+      "driver_id": "giovinazzi",
+      "name": "Antonio Giovinazzi",
+      "wiki_url": "https://en.wikipedia.org/wiki/Antonio_Giovinazzi",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Antonio_Giovinazzi_-_Ferrari_499P_-_Hybrid_during_the_pitwalk_at_the_2023_Le_Mans_%2853468237574%29.jpg/960px-Antonio_Giovinazzi_-_Ferrari_499P_-_Hybrid_during_the_pitwalk_at_the_2023_Le_Mans_%2853468237574%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/giovinazzi.jpg",
+      "status": "failed"
+    },
+    "vandoorne": {
+      "driver_id": "vandoorne",
+      "name": "Stoffel Vandoorne",
+      "wiki_url": "https://en.wikipedia.org/wiki/Stoffel_Vandoorne",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2023-04-23_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_1774_by_Stepro_%28cropped%29.jpg/960px-2023-04-23_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_1774_by_Stepro_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/vandoorne.jpg",
+      "status": "failed"
+    },
+    "hadjar": {
+      "driver_id": "hadjar",
+      "name": "Isack Hadjar",
+      "wiki_url": "https://en.wikipedia.org/wiki/Isack_Hadjar",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Isack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8753%29_%28cropped%29.jpg/960px-Isack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8753%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/hadjar.jpg",
+      "status": "success"
+    },
+    "latifi": {
+      "driver_id": "latifi",
+      "name": "Nicholas Latifi",
+      "wiki_url": "https://en.wikipedia.org/wiki/Nicholas_Latifi",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nicholas_Latifi_at_Singapore_in_2022_%28cropped%29.jpg/960px-Nicholas_Latifi_at_Singapore_in_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/latifi.jpg",
+      "status": "failed"
+    },
+    "mick_schumacher": {
+      "driver_id": "mick_schumacher",
+      "name": "Mick Schumacher",
+      "wiki_url": "https://en.wikipedia.org/wiki/Mick_Schumacher",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mick_Schumacher_2024_WEC_Fuji.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/mick_schumacher.jpg",
+      "status": "failed"
+    },
+    "nakajima": {
+      "driver_id": "nakajima",
+      "name": "Kazuki Nakajima",
+      "wiki_url": "https://en.wikipedia.org/wiki/Kazuki_Nakajima",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Kazuki_Nakajima_2012_WEC_Fuji_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/nakajima.jpg",
+      "status": "failed"
+    },
+    "brendon_hartley": {
+      "driver_id": "brendon_hartley",
+      "name": "Brendon Hartley",
+      "wiki_url": "https://en.wikipedia.org/wiki/Brendon_Hartley",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Brendon_Hartley_at_the_2025_Adelaide_Grand_Final_-_01.jpg/960px-Brendon_Hartley_at_the_2025_Adelaide_Grand_Final_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/brendon_hartley.jpg",
+      "status": "failed"
+    },
+    "bourdais": {
+      "driver_id": "bourdais",
+      "name": "S\u00e9bastien Bourdais",
+      "wiki_url": "https://en.wikipedia.org/wiki/S%C3%A9bastien_Bourdais",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sebastien_Bourdais_in_2021_%2851221641988%29_%28cropped%29.jpg/960px-Sebastien_Bourdais_in_2021_%2851221641988%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/bourdais.jpg",
+      "status": "failed"
+    },
+    "wilson": {
+      "driver_id": "wilson",
+      "name": "Justin Wilson",
+      "wiki_url": "https://en.wikipedia.org/wiki/Justin_Wilson_(racing_driver)",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Justin_Wilson_2013.jpg/960px-Justin_Wilson_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/wilson.jpg",
+      "status": "success"
+    },
+    "pizzonia": {
+      "driver_id": "pizzonia",
+      "name": "Ant\u00f4nio Pizzonia",
+      "wiki_url": "https://en.wikipedia.org/wiki/Ant%C3%B4nio_Pizzonia",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fale_F1_Monza_2004_13.jpg/960px-Fale_F1_Monza_2004_13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/pizzonia.jpg",
+      "status": "failed"
+    },
+    "firman": {
+      "driver_id": "firman",
+      "name": "Ralph Firman",
+      "wiki_url": "https://en.wikipedia.org/wiki/Ralph_Firman",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ralph_Firman_2008_Super_GT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/firman.jpg",
+      "status": "failed"
+    },
+    "sirotkin": {
+      "driver_id": "sirotkin",
+      "name": "Sergey Sirotkin",
+      "wiki_url": "https://en.wikipedia.org/wiki/Sergey_Sirotkin",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Sergey_Sirotkin_SMP_Racing.jpg/960px-Sergey_Sirotkin_SMP_Racing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/sirotkin.jpg",
+      "status": "failed"
+    },
+    "buemi": {
+      "driver_id": "buemi",
+      "name": "S\u00e9bastien Buemi",
+      "wiki_url": "https://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ryo_Hirakawa%2C_Brendon_Hartley_%26_Sebastien_Buemi_take_the_podium_for_2nd_in_Hypercar_at_the_2023_Le_Mans_%2853468554280%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/buemi.jpg",
+      "status": "failed"
+    },
+    "bruni": {
+      "driver_id": "bruni",
+      "name": "Gianmaria Bruni",
+      "wiki_url": "https://en.wikipedia.org/wiki/Gianmaria_Bruni",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Gianmaria_Bruni_2012_WEC_Fuji.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/bruni.jpg",
+      "status": "success"
+    },
+    "pantano": {
+      "driver_id": "pantano",
+      "name": "Giorgio Pantano",
+      "wiki_url": "https://en.wikipedia.org/wiki/Giorgio_Pantano",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Giorgio_pantano_brandshatch2014.JPG/960px-Giorgio_pantano_brandshatch2014.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/pantano.jpg",
+      "status": "failed"
+    },
+    "matta": {
+      "driver_id": "matta",
+      "name": "Cristiano da Matta",
+      "wiki_url": "https://en.wikipedia.org/wiki/Cristiano_da_Matta",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cdmlb06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/matta.jpg",
+      "status": "failed"
+    },
+    "piquet_jr": {
+      "driver_id": "piquet_jr",
+      "name": "Nelson Piquet Jr.",
+      "wiki_url": "https://en.wikipedia.org/wiki/Nelson_Piquet_Jr.",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Nelson_Piquet_Jr._2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/piquet_jr.jpg",
+      "status": "failed"
+    },
+    "wehrlein": {
+      "driver_id": "wehrlein",
+      "name": "Pascal Wehrlein",
+      "wiki_url": "https://en.wikipedia.org/wiki/Pascal_Wehrlein",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-05-10_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2024_STP_2554_by_Stepro.jpg/960px-2024-05-10_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2024_STP_2554_by_Stepro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/wehrlein.jpg",
+      "status": "success"
+    },
+    "jolyon_palmer": {
+      "driver_id": "jolyon_palmer",
+      "name": "Jolyon Palmer",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jolyon_Palmer",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jolyon_Palmer_2016_Malaysia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/jolyon_palmer.jpg",
+      "status": "success"
+    },
+    "alguersuari": {
+      "driver_id": "alguersuari",
+      "name": "Jaime Alguersuari",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jaime_Alguersuari",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Jaime_Alguersuari_Canada_2010_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/alguersuari.jpg",
+      "status": "failed"
+    },
+    "baumgartner": {
+      "driver_id": "baumgartner",
+      "name": "Zsolt Baumgartner",
+      "wiki_url": "https://en.wikipedia.org/wiki/Zsolt_Baumgartner",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/ChampCar_2007_Baumgartner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/baumgartner.jpg",
+      "status": "failed"
+    },
+    "haryanto": {
+      "driver_id": "haryanto",
+      "name": "Rio Haryanto",
+      "wiki_url": "https://en.wikipedia.org/wiki/Rio_Haryanto",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Rio_Haryanto_2016_paddock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/haryanto.jpg",
+      "status": "failed"
+    },
+    "ambrosio": {
+      "driver_id": "ambrosio",
+      "name": "J\u00e9r\u00f4me d'Ambrosio",
+      "wiki_url": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/DAmbrosioBerlin_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/ambrosio.jpg",
+      "status": "failed"
+    },
+    "friesacher": {
+      "driver_id": "friesacher",
+      "name": "Patrick Friesacher",
+      "wiki_url": "https://en.wikipedia.org/wiki/Patrick_Friesacher",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Patrick_Friesacher.jpg/960px-Patrick_Friesacher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/friesacher.jpg",
+      "status": "failed"
+    },
+    "mazepin": {
+      "driver_id": "mazepin",
+      "name": "Nikita Mazepin",
+      "wiki_url": "https://en.wikipedia.org/wiki/Nikita_Mazepin",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0_%D0%9C%D0%B0%D0%B7%D0%B5%D0%BF%D0%B8%D0%BD_-_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E_-_2019%2C_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/mazepin.jpg",
+      "status": "success"
+    },
+    "yoong": {
+      "driver_id": "yoong",
+      "name": "Alex Yoong",
+      "wiki_url": "https://en.wikipedia.org/wiki/Alex_Yoong",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/AlexYoong_0028_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "local_path": "images/drivers/yoong.jpg",
+      "status": "failed"
+    },
+    "chandhok": {
+      "driver_id": "chandhok",
+      "name": "Karun Chandhok",
+      "wiki_url": "https://en.wikipedia.org/wiki/Karun_Chandhok",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Karun_Chandhok_Goodwood_Festival_of_Speed_2019_%2848242680701%29.jpg/960px-Karun_Chandhok_Goodwood_Festival_of_Speed_2019_%2848242680701%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/chandhok.jpg",
+      "status": "failed"
+    },
+    "grassi": {
+      "driver_id": "grassi",
+      "name": "Lucas di Grassi",
+      "wiki_url": "https://en.wikipedia.org/wiki/Lucas_di_Grassi",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2023-04-23_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_1765_by_Stepro.jpg/960px-2023-04-23_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_1765_by_Stepro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/grassi.jpg",
+      "status": "failed"
+    },
+    "mcnish": {
+      "driver_id": "mcnish",
+      "name": "Allan McNish",
+      "wiki_url": "https://en.wikipedia.org/wiki/Allan_McNish",
+      "image_source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Allan_McNish_-_Three_times_winner_of_Le_Mans_24_Hours_%281998%2C_2008_and_2013%29_%2848688206548%29.jpg/960px-Allan_McNish_-_Three_times_winner_of_Le_Mans_24_Hours_%281998%2C_2008_and_2013%29_%2848688206548%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "local_path": "images/drivers/mcnish.jpg",
+      "status": "failed"
+    }
+  },
+  "cars": {
+    "source": "Wikimedia Commons / Formula 1 Media Archive",
+    "license": "Creative Commons Attribution-ShareAlike 4.0 / Editorial Fair Use",
+    "notes": "Standardized motorsport photography of championship-winning chassis."
+  },
+  "circuits": {
+    "source": "Wikimedia Commons / OpenStreetMap / FIA Track Maps",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 / Fair Use",
+    "notes": "Vector circuit layouts illustrating FIA certified track geometry."
+  }
+}

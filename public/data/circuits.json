@@ -1,0 +1,1916 @@
+[
+  {
+    "circuit_id": "albert_park",
+    "official_name": "Albert Park Circuit",
+    "common_name": "Melbourne",
+    "country": "Australia",
+    "city": "Melbourne",
+    "location": {
+      "lat": -37.8497,
+      "lng": 144.968
+    },
+    "track_type": "Semi-permanent Street Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1996,
+    "last_f1_race": 2025,
+    "current_length_km": 5.278,
+    "current_corners": 14,
+    "race_laps": 58,
+    "race_distance_km": 306.124,
+    "lap_record": {
+      "time": "1:19.813",
+      "driver": "Charles Leclerc",
+      "driver_id": "leclerc",
+      "year": 2024,
+      "car": "Ferrari SF-24"
+    },
+    "historical_layouts": [
+      {
+        "era": "1996-2019",
+        "length_km": 5.303,
+        "corners": 16,
+        "description": "Original Albert Park configuration with tight chicane at Turn 9/10.",
+        "lap_record": {
+          "time": "1:24.125",
+          "driver": "Michael Schumacher",
+          "year": 2004
+        }
+      },
+      {
+        "era": "2022-2025",
+        "length_km": 5.278,
+        "corners": 14,
+        "description": "Redesigned layout widening several corners and replacing Turn 9/10 chicane with a high-speed sweeping curve.",
+        "lap_record": {
+          "time": "1:19.813",
+          "driver": "Charles Leclerc",
+          "year": 2024
+        }
+      }
+    ],
+    "name_cn": "\u963f\u5c14\u4f2f\u7279\u516c\u56ed\u5927\u5956\u8d5b\u8d5b\u9053 (\u58a8\u5c14\u672c)",
+    "country_cn": "Australia",
+    "image": "/images/circuits/albert_park.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "sepang",
+    "official_name": "Sepang International Circuit",
+    "common_name": "Sepang",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "location": {
+      "lat": 2.7608,
+      "lng": 101.738
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1999,
+    "last_f1_race": 2017,
+    "current_length_km": 5.543,
+    "current_corners": 15,
+    "race_laps": 56,
+    "race_distance_km": 310.408,
+    "lap_record": {
+      "time": "1:34.080",
+      "driver": "Sebastian Vettel",
+      "driver_id": "vettel",
+      "year": 2017,
+      "car": "Ferrari SF70H"
+    },
+    "historical_layouts": [
+      {
+        "era": "1999-2017",
+        "length_km": 5.543,
+        "corners": 15,
+        "description": "Hermann Tilke modern classic circuit with twin long straights separated by grandstand.",
+        "lap_record": {
+          "time": "1:34.080",
+          "driver": "Sebastian Vettel",
+          "year": 2017
+        }
+      }
+    ],
+    "name_cn": "\u96ea\u90a6\u56fd\u9645\u8d5b\u9053",
+    "country_cn": "Malaysia",
+    "image": "/images/circuits/sepang.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "interlagos",
+    "official_name": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+    "common_name": "Interlagos",
+    "country": "Brazil",
+    "city": "S\u00e3o Paulo",
+    "location": {
+      "lat": -23.7036,
+      "lng": -46.6997
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Anti-clockwise",
+    "first_f1_race": 1973,
+    "last_f1_race": 2025,
+    "current_length_km": 4.309,
+    "current_corners": 15,
+    "race_laps": 71,
+    "race_distance_km": 305.879,
+    "lap_record": {
+      "time": "1:10.540",
+      "driver": "Valtteri Bottas",
+      "driver_id": "bottas",
+      "year": 2018,
+      "car": "Mercedes-AMG F1 W09 EQ Power+"
+    },
+    "historical_layouts": [
+      {
+        "era": "1990-2025",
+        "length_km": 4.309,
+        "corners": 15,
+        "description": "Classic undulating natural amphitheatre layout with Senna 'S' and long uphill sweeping straight.",
+        "lap_record": {
+          "time": "1:10.540",
+          "driver": "Valtteri Bottas",
+          "year": 2018
+        }
+      }
+    ],
+    "name_cn": "\u82e5\u6cfd\u00b7\u5361\u6d1b\u65af\u00b7\u5e15\u585e\u8d5b\u9053 (\u82f1\u7279\u62c9\u683c\u65af)",
+    "country_cn": "Brazil",
+    "image": null,
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "imola",
+    "official_name": "Autodromo Internazionale Enzo e Dino Ferrari",
+    "common_name": "Imola",
+    "country": "Italy",
+    "city": "Imola",
+    "location": {
+      "lat": 44.3439,
+      "lng": 11.7167
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Anti-clockwise",
+    "first_f1_race": 1980,
+    "last_f1_race": 2025,
+    "current_length_km": 4.909,
+    "current_corners": 19,
+    "race_laps": 63,
+    "race_distance_km": 309.049,
+    "lap_record": {
+      "time": "1:15.484",
+      "driver": "Lewis Hamilton",
+      "driver_id": "hamilton",
+      "year": 2020,
+      "car": "Mercedes-AMG F1 W11 EQ Performance"
+    },
+    "historical_layouts": [
+      {
+        "era": "1995-2006",
+        "length_km": 4.933,
+        "corners": 17,
+        "description": "San Marino GP layout with Variante Bassa chicane before start/finish straight.",
+        "lap_record": {
+          "time": "1:20.411",
+          "driver": "Michael Schumacher",
+          "year": 2004
+        }
+      },
+      {
+        "era": "2020-2025",
+        "length_km": 4.909,
+        "corners": 19,
+        "description": "Emilia Romagna GP layout without Variante Bassa chicane for F1, full throttle straight from Rivazza to Tamburello.",
+        "lap_record": {
+          "time": "1:15.484",
+          "driver": "Lewis Hamilton",
+          "year": 2020
+        }
+      }
+    ],
+    "name_cn": "\u6069\u4f50\u4e0e\u8fea\u8bfa\u00b7\u6cd5\u62c9\u5229\u8d5b\u9053 (\u4f0a\u83ab\u62c9)",
+    "country_cn": "Italy",
+    "image": null,
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "catalunya",
+    "official_name": "Circuit de Barcelona-Catalunya",
+    "common_name": "Barcelona / Catalunya",
+    "country": "Spain",
+    "city": "Montmel\u00f3",
+    "location": {
+      "lat": 41.57,
+      "lng": 2.2611
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1991,
+    "last_f1_race": 2025,
+    "current_length_km": 4.657,
+    "current_corners": 14,
+    "race_laps": 66,
+    "race_distance_km": 307.236,
+    "lap_record": {
+      "time": "1:16.330",
+      "driver": "Max Verstappen",
+      "driver_id": "max_verstappen",
+      "year": 2023,
+      "car": "Red Bull RB19"
+    },
+    "historical_layouts": [
+      {
+        "era": "2000-2003",
+        "length_km": 4.73,
+        "corners": 16,
+        "description": "Original high-speed final sector.",
+        "lap_record": {
+          "time": "1:20.143",
+          "driver": "Rubens Barrichello",
+          "year": 2002
+        }
+      },
+      {
+        "era": "2004-2006",
+        "length_km": 4.627,
+        "corners": 14,
+        "description": "Tightened La Caixa (Turn 10).",
+        "lap_record": {
+          "time": "1:15.641",
+          "driver": "Giancarlo Fisichella",
+          "year": 2005
+        }
+      },
+      {
+        "era": "2007-2020",
+        "length_km": 4.655,
+        "corners": 16,
+        "description": "Slow RACC chicane added before the final corner.",
+        "lap_record": {
+          "time": "1:18.149",
+          "driver": "Max Verstappen",
+          "year": 2020
+        }
+      },
+      {
+        "era": "2021-2022",
+        "length_km": 4.675,
+        "corners": 16,
+        "description": "Modified Turn 10 with chicane retained.",
+        "lap_record": {
+          "time": "1:18.149",
+          "driver": "Max Verstappen",
+          "year": 2021
+        }
+      },
+      {
+        "era": "2023-2025",
+        "length_km": 4.657,
+        "corners": 14,
+        "description": "Removal of final chicane, restoring classic high-speed sweeps into start/finish straight.",
+        "lap_record": {
+          "time": "1:16.330",
+          "driver": "Max Verstappen",
+          "year": 2023
+        }
+      }
+    ],
+    "name_cn": "\u52a0\u6cf0\u7f57\u5c3c\u4e9a\u8d5b\u9053 (\u5df4\u585e\u7f57\u90a3)",
+    "country_cn": "Spain",
+    "image": "/images/circuits/catalunya.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "monaco",
+    "official_name": "Circuit de Monaco",
+    "common_name": "Monaco / Monte Carlo",
+    "country": "Monaco",
+    "city": "Monte Carlo",
+    "location": {
+      "lat": 43.7347,
+      "lng": 7.4206
+    },
+    "track_type": "Street Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1950,
+    "last_f1_race": 2025,
+    "current_length_km": 3.337,
+    "current_corners": 19,
+    "race_laps": 78,
+    "race_distance_km": 260.286,
+    "lap_record": {
+      "time": "1:12.909",
+      "driver": "Lewis Hamilton",
+      "driver_id": "hamilton",
+      "year": 2021,
+      "car": "Mercedes-AMG F1 W12 E Performance"
+    },
+    "historical_layouts": [
+      {
+        "era": "2000-2002",
+        "length_km": 3.37,
+        "corners": 25,
+        "description": "Classic Monaco layout prior to port swimming pool pit straight reconfiguration.",
+        "lap_record": {
+          "time": "1:18.023",
+          "driver": "Rubens Barrichello",
+          "year": 2002
+        }
+      },
+      {
+        "era": "2003-2014",
+        "length_km": 3.34,
+        "corners": 19,
+        "description": "New harbor complex and swimming pool section, upgraded pit lane.",
+        "lap_record": {
+          "time": "1:14.439",
+          "driver": "Michael Schumacher",
+          "year": 2004
+        }
+      },
+      {
+        "era": "2015-2025",
+        "length_km": 3.337,
+        "corners": 19,
+        "description": "Slight adjustment to Tabac corner (Turn 12) realignment.",
+        "lap_record": {
+          "time": "1:12.909",
+          "driver": "Lewis Hamilton",
+          "year": 2021
+        }
+      }
+    ],
+    "name_cn": "\u6469\u7eb3\u54e5\u8d5b\u9053 (\u8499\u7279\u5361\u6d1b)",
+    "country_cn": "Monaco",
+    "image": "/images/circuits/monaco.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "villeneuve",
+    "official_name": "Circuit Gilles-Villeneuve",
+    "common_name": "Montreal / Gilles Villeneuve",
+    "country": "Canada",
+    "city": "Montreal",
+    "location": {
+      "lat": 45.5,
+      "lng": -73.5228
+    },
+    "track_type": "Semi-permanent Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1978,
+    "last_f1_race": 2025,
+    "current_length_km": 4.361,
+    "current_corners": 14,
+    "race_laps": 70,
+    "race_distance_km": 305.27,
+    "lap_record": {
+      "time": "1:13.078",
+      "driver": "Valtteri Bottas",
+      "driver_id": "bottas",
+      "year": 2019,
+      "car": "Mercedes-AMG F1 W10 EQ Power+"
+    },
+    "historical_layouts": [
+      {
+        "era": "2000-2025",
+        "length_km": 4.361,
+        "corners": 14,
+        "description": "Park Jean-Drapeau island circuit featuring high-speed straights, chicanes, and Wall of Champions.",
+        "lap_record": {
+          "time": "1:13.078",
+          "driver": "Valtteri Bottas",
+          "year": 2019
+        }
+      }
+    ],
+    "name_cn": "\u5409\u5c14\u00b7\u7ef4\u4f26\u7ebd\u592b\u8d5b\u9053 (\u8499\u7279\u5229\u5c14)",
+    "country_cn": "Canada",
+    "image": null,
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "silverstone",
+    "official_name": "Silverstone Circuit",
+    "common_name": "Silverstone",
+    "country": "United Kingdom",
+    "city": "Silverstone",
+    "location": {
+      "lat": 52.0786,
+      "lng": -1.0169
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1950,
+    "last_f1_race": 2025,
+    "current_length_km": 5.891,
+    "current_corners": 18,
+    "race_laps": 52,
+    "race_distance_km": 306.198,
+    "lap_record": {
+      "time": "1:27.097",
+      "driver": "Max Verstappen",
+      "driver_id": "max_verstappen",
+      "year": 2020,
+      "car": "Red Bull RB16"
+    },
+    "historical_layouts": [
+      {
+        "era": "2000-2009",
+        "length_km": 5.141,
+        "corners": 17,
+        "description": "Bridge layout: Copse, Maggotts, Becketts, Chapel, Stowe, Vale, Club, Abbey, Bridge, Priory, Brooklands, Luffield, Woodcote.",
+        "lap_record": {
+          "time": "1:18.739",
+          "driver": "Michael Schumacher",
+          "year": 2004
+        }
+      },
+      {
+        "era": "2010-2025",
+        "length_km": 5.891,
+        "corners": 18,
+        "description": "Arena layout: Turn right at Abbey through Farm Curve, Village, The Loop, Aintree into Wellington Straight.",
+        "lap_record": {
+          "time": "1:27.097",
+          "driver": "Max Verstappen",
+          "year": 2020
+        }
+      }
+    ],
+    "name_cn": "\u94f6\u77f3\u8d5b\u9053",
+    "country_cn": "United Kingdom",
+    "image": "/images/circuits/silverstone.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "hockenheimring",
+    "official_name": "Hockenheimring",
+    "common_name": "Hockenheim",
+    "country": "Germany",
+    "city": "Hockenheim",
+    "location": {
+      "lat": 49.3278,
+      "lng": 8.5658
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1970,
+    "last_f1_race": 2019,
+    "current_length_km": 4.574,
+    "current_corners": 17,
+    "race_laps": 67,
+    "race_distance_km": 306.458,
+    "lap_record": {
+      "time": "1:13.780",
+      "driver": "Kimi R\u00e4ikk\u00f6nen",
+      "driver_id": "raikkonen",
+      "year": 2004,
+      "car": "McLaren MP4-19B"
+    },
+    "historical_layouts": [
+      {
+        "era": "2000-2001",
+        "length_km": 6.825,
+        "corners": 16,
+        "description": "Classic Forest layout: Long straights through the Hardtwald forest separated by Clark, Ost and Senna chicanes, leading into the Motodrom.",
+        "lap_record": {
+          "time": "1:41.808",
+          "driver": "Juan Pablo Montoya",
+          "year": 2001
+        }
+      },
+      {
+        "era": "2002-2019",
+        "length_km": 4.574,
+        "corners": 17,
+        "description": "Hermann Tilke redesign bypassing forest section via Parabolika leading to hairpin.",
+        "lap_record": {
+          "time": "1:13.780",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "year": 2004
+        }
+      }
+    ],
+    "name_cn": "\u970d\u6839\u6d77\u59c6\u8d5b\u9053",
+    "country_cn": "Germany",
+    "image": "/images/circuits/hockenheimring.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "hungaroring",
+    "official_name": "Hungaroring",
+    "common_name": "Hungaroring / Budapest",
+    "country": "Hungary",
+    "city": "Mogyor\u00f3d",
+    "location": {
+      "lat": 47.5789,
+      "lng": 19.2486
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1986,
+    "last_f1_race": 2025,
+    "current_length_km": 4.381,
+    "current_corners": 14,
+    "race_laps": 70,
+    "race_distance_km": 306.63,
+    "lap_record": {
+      "time": "1:16.627",
+      "driver": "Lewis Hamilton",
+      "driver_id": "hamilton",
+      "year": 2020,
+      "car": "Mercedes-AMG F1 W11 EQ Performance"
+    },
+    "historical_layouts": [
+      {
+        "era": "2000-2002",
+        "length_km": 3.975,
+        "corners": 13,
+        "description": "Original tight layout with shorter main straight.",
+        "lap_record": {
+          "time": "1:16.207",
+          "driver": "Michael Schumacher",
+          "year": 2002
+        }
+      },
+      {
+        "era": "2003-2025",
+        "length_km": 4.381,
+        "corners": 14,
+        "description": "Extended main straight and tightened Turn 1 hairpin to improve overtaking.",
+        "lap_record": {
+          "time": "1:16.627",
+          "driver": "Lewis Hamilton",
+          "year": 2020
+        }
+      }
+    ],
+    "name_cn": "\u4ea8\u683c\u7f57\u5b81\u8d5b\u9053 (\u5e03\u8fbe\u4f69\u65af)",
+    "country_cn": "Hungary",
+    "image": "/images/circuits/hungaroring.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "spa",
+    "official_name": "Circuit de Spa-Francorchamps",
+    "common_name": "Spa-Francorchamps / Spa",
+    "country": "Belgium",
+    "city": "Stavelot",
+    "location": {
+      "lat": 50.4372,
+      "lng": 5.9714
+    },
+    "track_type": "Permanent / Semi-permanent Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1950,
+    "last_f1_race": 2025,
+    "current_length_km": 7.004,
+    "current_corners": 19,
+    "race_laps": 44,
+    "race_distance_km": 308.052,
+    "lap_record": {
+      "time": "1:44.701",
+      "driver": "Sergio P\u00e9rez",
+      "driver_id": "perez",
+      "year": 2024,
+      "car": "Red Bull RB20"
+    },
+    "historical_layouts": [
+      {
+        "era": "2000-2003",
+        "length_km": 6.968,
+        "corners": 24,
+        "description": "Classic layout with double chicane Bus Stop.",
+        "lap_record": {
+          "time": "1:47.176",
+          "driver": "Michael Schumacher",
+          "year": 2002
+        }
+      },
+      {
+        "era": "2004-2005",
+        "length_km": 6.976,
+        "corners": 21,
+        "description": "Modified Bus Stop chicane.",
+        "lap_record": {
+          "time": "1:45.108",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "year": 2004
+        }
+      },
+      {
+        "era": "2007-2025",
+        "length_km": 7.004,
+        "corners": 19,
+        "description": "Redesigned Bus Stop and extended pit straight with rebuilt paddock.",
+        "lap_record": {
+          "time": "1:44.701",
+          "driver": "Sergio P\u00e9rez",
+          "year": 2024
+        }
+      }
+    ],
+    "name_cn": "\u65af\u5e15-\u5f17\u6717\u79d1\u5c14\u5c1a\u8d5b\u9053",
+    "country_cn": "Belgium",
+    "image": "/images/circuits/spa.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "monza",
+    "official_name": "Autodromo Nazionale Monza",
+    "common_name": "Monza / Temple of Speed",
+    "country": "Italy",
+    "city": "Monza",
+    "location": {
+      "lat": 45.6156,
+      "lng": 9.2811
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1950,
+    "last_f1_race": 2025,
+    "current_length_km": 5.793,
+    "current_corners": 11,
+    "race_laps": 53,
+    "race_distance_km": 306.72,
+    "lap_record": {
+      "time": "1:21.046",
+      "driver": "Rubens Barrichello",
+      "driver_id": "barrichello",
+      "year": 2004,
+      "car": "Ferrari F2004"
+    },
+    "historical_layouts": [
+      {
+        "era": "2000-2025",
+        "length_km": 5.793,
+        "corners": 11,
+        "description": "Variante del Rettifilo tight chicane leading to Curva Grande, Roggia, Lesmos, Ascari, and Parabolica (Curva Alboreto).",
+        "lap_record": {
+          "time": "1:21.046",
+          "driver": "Rubens Barrichello",
+          "year": 2004
+        }
+      }
+    ],
+    "name_cn": "\u8499\u624e\u56fd\u5bb6\u8d5b\u8f66\u573a",
+    "country_cn": "Italy",
+    "image": null,
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "indianapolis",
+    "official_name": "Indianapolis Motor Speedway",
+    "common_name": "Indianapolis (IMS Road Course)",
+    "country": "USA",
+    "city": "Speedway, Indiana",
+    "location": {
+      "lat": 39.795,
+      "lng": -86.2347
+    },
+    "track_type": "Road Course inside Oval",
+    "direction": "Clockwise",
+    "first_f1_race": 1950,
+    "last_f1_race": 2007,
+    "current_length_km": 4.192,
+    "current_corners": 13,
+    "race_laps": 73,
+    "race_distance_km": 306.016,
+    "lap_record": {
+      "time": "1:10.399",
+      "driver": "Rubens Barrichello",
+      "driver_id": "barrichello",
+      "year": 2004,
+      "car": "Ferrari F2004"
+    },
+    "historical_layouts": [
+      {
+        "era": "2000-2007",
+        "length_km": 4.192,
+        "corners": 13,
+        "description": "Infield road course utilizing Banked Turn 1 of the oval as Turn 13 leading to the main straight.",
+        "lap_record": {
+          "time": "1:10.399",
+          "driver": "Rubens Barrichello",
+          "year": 2004
+        }
+      }
+    ],
+    "name_cn": "\u5370\u7b2c\u5b89\u7eb3\u6ce2\u5229\u65af\u8d5b\u9053",
+    "country_cn": "USA",
+    "image": "/images/circuits/indianapolis.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "suzuka",
+    "official_name": "Suzuka International Racing Course",
+    "common_name": "Suzuka",
+    "country": "Japan",
+    "city": "Suzuka",
+    "location": {
+      "lat": 34.8431,
+      "lng": 136.541
+    },
+    "track_type": "Permanent Race Circuit (Figure-8)",
+    "direction": "Figure-8 (Clockwise & Anti-clockwise)",
+    "first_f1_race": 1987,
+    "last_f1_race": 2025,
+    "current_length_km": 5.807,
+    "current_corners": 18,
+    "race_laps": 53,
+    "race_distance_km": 307.471,
+    "lap_record": {
+      "time": "1:30.983",
+      "driver": "Lewis Hamilton",
+      "driver_id": "hamilton",
+      "year": 2019,
+      "car": "Mercedes-AMG F1 W10 EQ Power+"
+    },
+    "historical_layouts": [
+      {
+        "era": "2000-2002",
+        "length_km": 5.864,
+        "corners": 20,
+        "description": "Original classic layout before 130R and Casio Triangle modifications.",
+        "lap_record": {
+          "time": "1:36.125",
+          "driver": "Ralf Schumacher",
+          "year": 2001
+        }
+      },
+      {
+        "era": "2003-2025",
+        "length_km": 5.807,
+        "corners": 18,
+        "description": "Re-profiled 130R double apex corner and tightened Casio Triangle chicane.",
+        "lap_record": {
+          "time": "1:30.983",
+          "driver": "Lewis Hamilton",
+          "year": 2019
+        }
+      }
+    ],
+    "name_cn": "\u94c3\u9e7f\u56fd\u9645\u8d5b\u8f66\u573a",
+    "country_cn": "Japan",
+    "image": null,
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "magny_cours",
+    "official_name": "Circuit de Nevers Magny-Cours",
+    "common_name": "Magny-Cours",
+    "country": "France",
+    "city": "Magny-Cours",
+    "location": {
+      "lat": 46.8642,
+      "lng": 3.1636
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1991,
+    "last_f1_race": 2008,
+    "current_length_km": 4.411,
+    "current_corners": 17,
+    "race_laps": 70,
+    "race_distance_km": 308.586,
+    "lap_record": {
+      "time": "1:15.377",
+      "driver": "Michael Schumacher",
+      "driver_id": "michael_schumacher",
+      "year": 2004,
+      "car": "Ferrari F2004"
+    },
+    "historical_layouts": [
+      {
+        "era": "2000-2002",
+        "length_km": 4.251,
+        "corners": 18,
+        "description": "Layout with Chateau d'Eau chicane before final complex.",
+        "lap_record": {
+          "time": "1:15.059",
+          "driver": "David Coulthard",
+          "year": 2002
+        }
+      },
+      {
+        "era": "2003-2008",
+        "length_km": 4.411,
+        "corners": 17,
+        "description": "Modified final chicane (Chicanes du Lycee) and extended pit exit.",
+        "lap_record": {
+          "time": "1:15.377",
+          "driver": "Michael Schumacher",
+          "year": 2004
+        }
+      }
+    ],
+    "name_cn": "\u9a6c\u5c3c\u5e93\u5c14\u8d5b\u9053",
+    "country_cn": "France",
+    "image": "/images/circuits/magny_cours.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "a1_ring",
+    "official_name": "Red Bull Ring (formerly A1-Ring)",
+    "common_name": "Red Bull Ring / Spielberg",
+    "country": "Austria",
+    "city": "Spielberg",
+    "location": {
+      "lat": 47.2197,
+      "lng": 14.7647
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1970,
+    "last_f1_race": 2025,
+    "current_length_km": 4.318,
+    "current_corners": 10,
+    "race_laps": 71,
+    "race_distance_km": 306.452,
+    "lap_record": {
+      "time": "1:05.619",
+      "driver": "Carlos Sainz Jr.",
+      "driver_id": "sainz",
+      "year": 2020,
+      "car": "McLaren MCL35"
+    },
+    "historical_layouts": [
+      {
+        "era": "2000-2003 (A1-Ring)",
+        "length_km": 4.326,
+        "corners": 10,
+        "description": "Rebuilt Osterreichring shortened layout.",
+        "lap_record": {
+          "time": "1:08.337",
+          "driver": "Michael Schumacher",
+          "year": 2003
+        }
+      },
+      {
+        "era": "2014-2025 (Red Bull Ring)",
+        "length_km": 4.318,
+        "corners": 10,
+        "description": "Modernized Red Bull Ring with high altitude and aggressive kerbs.",
+        "lap_record": {
+          "time": "1:05.619",
+          "driver": "Carlos Sainz Jr.",
+          "year": 2020
+        }
+      }
+    ],
+    "name_cn": "\u7ea2\u725b\u73af\u8d5b\u9053 / A1\u8d5b\u9053 (\u65bd\u76ae\u5c14\u8d1d\u683c)",
+    "country_cn": "Austria",
+    "image": "/images/circuits/a1_ring.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "bahrain",
+    "official_name": "Bahrain International Circuit",
+    "common_name": "Sakhir / Bahrain",
+    "country": "Bahrain",
+    "city": "Sakhir",
+    "location": {
+      "lat": 26.0325,
+      "lng": 50.5106
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 2004,
+    "last_f1_race": 2025,
+    "current_length_km": 5.412,
+    "current_corners": 15,
+    "race_laps": 57,
+    "race_distance_km": 308.238,
+    "lap_record": {
+      "time": "1:31.447",
+      "driver": "Pedro de la Rosa",
+      "driver_id": "de_la_rosa",
+      "year": 2005,
+      "car": "McLaren MP4-20"
+    },
+    "historical_layouts": [
+      {
+        "era": "2004-2009, 2012-2025 (Grand Prix Circuit)",
+        "length_km": 5.412,
+        "corners": 15,
+        "description": "Standard Grand Prix layout featuring 4 long straights and technical middle sector.",
+        "lap_record": {
+          "time": "1:31.447",
+          "driver": "Pedro de la Rosa",
+          "year": 2005
+        }
+      },
+      {
+        "era": "2010 (Endurance Circuit)",
+        "length_km": 6.299,
+        "corners": 24,
+        "description": "Extended complex after Turn 4 used exclusively for the 2010 season opener.",
+        "lap_record": {
+          "time": "1:58.287",
+          "driver": "Fernando Alonso",
+          "year": 2010
+        }
+      },
+      {
+        "era": "2020 (Outer Circuit - Sakhir GP)",
+        "length_km": 3.543,
+        "corners": 11,
+        "description": "Ultra-fast outer loop layout with sub-54 second qualifying lap time.",
+        "lap_record": {
+          "time": "0:55.404",
+          "driver": "George Russell",
+          "year": 2020
+        }
+      }
+    ],
+    "name_cn": "\u5df4\u6797\u56fd\u9645\u8d5b\u8f66\u573a (\u8428\u57fa\u5c14)",
+    "country_cn": "Bahrain",
+    "image": "/images/circuits/bahrain.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "shanghai",
+    "official_name": "Shanghai International Circuit",
+    "common_name": "Shanghai",
+    "country": "China",
+    "city": "Shanghai",
+    "location": {
+      "lat": 31.3389,
+      "lng": 121.22
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 2004,
+    "last_f1_race": 2025,
+    "current_length_km": 5.451,
+    "current_corners": 16,
+    "race_laps": 56,
+    "race_distance_km": 305.066,
+    "lap_record": {
+      "time": "1:32.238",
+      "driver": "Michael Schumacher",
+      "driver_id": "michael_schumacher",
+      "year": 2004,
+      "car": "Ferrari F2004"
+    },
+    "historical_layouts": [
+      {
+        "era": "2004-2025",
+        "length_km": 5.451,
+        "corners": 16,
+        "description": "Shaped like Chinese character 'Shang' (\u4e0a), featuring tightening Turn 1-3 snail curve and 1.2km back straight.",
+        "lap_record": {
+          "time": "1:32.238",
+          "driver": "Michael Schumacher",
+          "year": 2004
+        }
+      }
+    ],
+    "name_cn": "\u4e0a\u6d77\u56fd\u9645\u8d5b\u8f66\u573a",
+    "country_cn": "China",
+    "image": "/images/circuits/shanghai.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "marina_bay",
+    "official_name": "Marina Bay Street Circuit",
+    "common_name": "Singapore / Marina Bay",
+    "country": "Singapore",
+    "city": "Singapore",
+    "location": {
+      "lat": 1.2914,
+      "lng": 103.864
+    },
+    "track_type": "Street Circuit (Night Race)",
+    "direction": "Anti-clockwise",
+    "first_f1_race": 2008,
+    "last_f1_race": 2025,
+    "current_length_km": 4.94,
+    "current_corners": 19,
+    "race_laps": 62,
+    "race_distance_km": 306.143,
+    "lap_record": {
+      "time": "1:34.486",
+      "driver": "Daniel Ricciardo",
+      "driver_id": "ricciardo",
+      "year": 2024,
+      "car": "RB VCARB 01"
+    },
+    "historical_layouts": [
+      {
+        "era": "2008-2012",
+        "length_km": 5.073,
+        "corners": 24,
+        "description": "Included high-kerb Singapore Sling chicane at Turn 10.",
+        "lap_record": {
+          "time": "1:45.599",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "year": 2008
+        }
+      },
+      {
+        "era": "2013-2022",
+        "length_km": 5.063,
+        "corners": 23,
+        "description": "Singapore Sling replaced with flowing single left-hander.",
+        "lap_record": {
+          "time": "1:41.905",
+          "driver": "Kevin Magnussen",
+          "year": 2018
+        }
+      },
+      {
+        "era": "2023-2025",
+        "length_km": 4.94,
+        "corners": 19,
+        "description": "Turns 16-19 grandstand underpass replaced with straight, reducing corner count to 19.",
+        "lap_record": {
+          "time": "1:34.486",
+          "driver": "Daniel Ricciardo",
+          "year": 2024
+        }
+      }
+    ],
+    "name_cn": "\u6ee8\u6d77\u6e7e\u5e02\u8857\u8d5b\u9053 (\u65b0\u52a0\u5761)",
+    "country_cn": "Singapore",
+    "image": "/images/circuits/marina_bay.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "yas_marina",
+    "official_name": "Yas Marina Circuit",
+    "common_name": "Abu Dhabi / Yas Marina",
+    "country": "UAE",
+    "city": "Abu Dhabi",
+    "location": {
+      "lat": 24.4672,
+      "lng": 54.6031
+    },
+    "track_type": "Permanent Race Circuit (Twilight)",
+    "direction": "Anti-clockwise",
+    "first_f1_race": 2009,
+    "last_f1_race": 2025,
+    "current_length_km": 5.281,
+    "current_corners": 16,
+    "race_laps": 58,
+    "race_distance_km": 306.183,
+    "lap_record": {
+      "time": "1:26.103",
+      "driver": "Max Verstappen",
+      "driver_id": "max_verstappen",
+      "year": 2021,
+      "car": "Red Bull RB16B"
+    },
+    "historical_layouts": [
+      {
+        "era": "2009-2020",
+        "length_km": 5.554,
+        "corners": 21,
+        "description": "Original layout with tight chicane before hairpin and 90-degree corners around hotel.",
+        "lap_record": {
+          "time": "1:39.283",
+          "driver": "Lewis Hamilton",
+          "year": 2019
+        }
+      },
+      {
+        "era": "2021-2025",
+        "length_km": 5.281,
+        "corners": 16,
+        "description": "Opened up Turn 5 hairpin, wide banked curve at Turn 9, and opened hotel sector.",
+        "lap_record": {
+          "time": "1:26.103",
+          "driver": "Max Verstappen",
+          "year": 2021
+        }
+      }
+    ],
+    "name_cn": "\u4e9a\u65af\u7801\u5934\u8d5b\u9053 (\u963f\u5e03\u624e\u6bd4)",
+    "country_cn": "UAE",
+    "image": "/images/circuits/yas_marina.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "cota",
+    "official_name": "Circuit of the Americas",
+    "common_name": "COTA / Austin",
+    "country": "USA",
+    "city": "Austin, Texas",
+    "location": {
+      "lat": 30.1328,
+      "lng": -97.6411
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Anti-clockwise",
+    "first_f1_race": 2012,
+    "last_f1_race": 2025,
+    "current_length_km": 5.513,
+    "current_corners": 20,
+    "race_laps": 56,
+    "race_distance_km": 308.405,
+    "lap_record": {
+      "time": "1:36.169",
+      "driver": "Charles Leclerc",
+      "driver_id": "leclerc",
+      "year": 2019,
+      "car": "Ferrari SF90"
+    },
+    "historical_layouts": [
+      {
+        "era": "2012-2025",
+        "length_km": 5.513,
+        "corners": 20,
+        "description": "Steep uphill into blind Turn 1 hairpin, flowing Maggotts/Becketts-inspired esses, long back straight and stadium section.",
+        "lap_record": {
+          "time": "1:36.169",
+          "driver": "Charles Leclerc",
+          "year": 2019
+        }
+      }
+    ],
+    "name_cn": "\u7f8e\u6d32\u8d5b\u9053 (\u5965\u65af\u6c40)",
+    "country_cn": "USA",
+    "image": "/images/circuits/cota.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "baku",
+    "official_name": "Baku City Circuit",
+    "common_name": "Baku",
+    "country": "Azerbaijan",
+    "city": "Baku",
+    "location": {
+      "lat": 40.3725,
+      "lng": 49.8533
+    },
+    "track_type": "Street Circuit",
+    "direction": "Anti-clockwise",
+    "first_f1_race": 2016,
+    "last_f1_race": 2025,
+    "current_length_km": 6.003,
+    "current_corners": 20,
+    "race_laps": 51,
+    "race_distance_km": 306.049,
+    "lap_record": {
+      "time": "1:43.009",
+      "driver": "Charles Leclerc",
+      "driver_id": "leclerc",
+      "year": 2019,
+      "car": "Ferrari SF90"
+    },
+    "historical_layouts": [
+      {
+        "era": "2016-2025",
+        "length_km": 6.003,
+        "corners": 20,
+        "description": "2.2km flat-out blast along Caspian Sea promenade contrasting with 7.6m narrow medieval castle section.",
+        "lap_record": {
+          "time": "1:43.009",
+          "driver": "Charles Leclerc",
+          "year": 2019
+        }
+      }
+    ],
+    "name_cn": "\u5df4\u5e93\u57ce\u5e02\u8d5b\u9053",
+    "country_cn": "Azerbaijan",
+    "image": "/images/circuits/baku.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "zandvoort",
+    "official_name": "Circuit Zandvoort",
+    "common_name": "Zandvoort",
+    "country": "Netherlands",
+    "city": "Zandvoort",
+    "location": {
+      "lat": 52.3888,
+      "lng": 4.5409
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1952,
+    "last_f1_race": 2025,
+    "current_length_km": 4.259,
+    "current_corners": 14,
+    "race_laps": 72,
+    "race_distance_km": 306.587,
+    "lap_record": {
+      "time": "1:11.097",
+      "driver": "Lewis Hamilton",
+      "driver_id": "hamilton",
+      "year": 2021,
+      "car": "Mercedes-AMG F1 W12 E Performance"
+    },
+    "historical_layouts": [
+      {
+        "era": "2021-2025",
+        "length_km": 4.259,
+        "corners": 14,
+        "description": "Modernized coastal dunes layout with 18-degree banking at Hugenholtz (Turn 3) and Arie Luyendyk (Turn 14).",
+        "lap_record": {
+          "time": "1:11.097",
+          "driver": "Lewis Hamilton",
+          "year": 2021
+        }
+      }
+    ],
+    "name_cn": "\u8d5e\u5fb7\u798f\u7279\u8d5b\u9053",
+    "country_cn": "Netherlands",
+    "image": "/images/circuits/zandvoort.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "jeddah",
+    "official_name": "Jeddah Corniche Circuit",
+    "common_name": "Jeddah",
+    "country": "Saudi Arabia",
+    "city": "Jeddah",
+    "location": {
+      "lat": 21.6319,
+      "lng": 39.1044
+    },
+    "track_type": "High-Speed Street Circuit (Night)",
+    "direction": "Anti-clockwise",
+    "first_f1_race": 2021,
+    "last_f1_race": 2025,
+    "current_length_km": 6.174,
+    "current_corners": 27,
+    "race_laps": 50,
+    "race_distance_km": 308.45,
+    "lap_record": {
+      "time": "1:30.734",
+      "driver": "Lewis Hamilton",
+      "driver_id": "hamilton",
+      "year": 2021,
+      "car": "Mercedes-AMG F1 W12 E Performance"
+    },
+    "historical_layouts": [
+      {
+        "era": "2021-2025",
+        "length_km": 6.174,
+        "corners": 27,
+        "description": "Fastest street circuit in F1 history with 250+ km/h average speed and blind sweeps along the Red Sea.",
+        "lap_record": {
+          "time": "1:30.734",
+          "driver": "Lewis Hamilton",
+          "year": 2021
+        }
+      }
+    ],
+    "name_cn": "\u5409\u8fbe\u6ee8\u6d77\u5e02\u8857\u8d5b\u9053",
+    "country_cn": "Saudi Arabia",
+    "image": "/images/circuits/jeddah.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "miami",
+    "official_name": "Miami International Autodrome",
+    "common_name": "Miami",
+    "country": "USA",
+    "city": "Miami Gardens, Florida",
+    "location": {
+      "lat": 25.9581,
+      "lng": -80.2389
+    },
+    "track_type": "Semi-permanent Street Circuit",
+    "direction": "Anti-clockwise",
+    "first_f1_race": 2022,
+    "last_f1_race": 2025,
+    "current_length_km": 5.412,
+    "current_corners": 19,
+    "race_laps": 57,
+    "race_distance_km": 308.326,
+    "lap_record": {
+      "time": "1:29.708",
+      "driver": "Max Verstappen",
+      "driver_id": "max_verstappen",
+      "year": 2023,
+      "car": "Red Bull RB19"
+    },
+    "historical_layouts": [
+      {
+        "era": "2022-2025",
+        "length_km": 5.412,
+        "corners": 19,
+        "description": "Constructed around Hard Rock Stadium featuring long straights and tight chicane under highway overpasses.",
+        "lap_record": {
+          "time": "1:29.708",
+          "driver": "Max Verstappen",
+          "year": 2023
+        }
+      }
+    ],
+    "name_cn": "\u8fc8\u963f\u5bc6\u56fd\u9645\u8d5b\u9053",
+    "country_cn": "USA",
+    "image": "/images/circuits/miami.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "las_vegas",
+    "official_name": "Las Vegas Strip Circuit",
+    "common_name": "Las Vegas",
+    "country": "USA",
+    "city": "Las Vegas, Nevada",
+    "location": {
+      "lat": 36.1147,
+      "lng": -115.1667
+    },
+    "track_type": "Street Circuit (Night Race)",
+    "direction": "Anti-clockwise",
+    "first_f1_race": 2023,
+    "last_f1_race": 2025,
+    "current_length_km": 6.201,
+    "current_corners": 17,
+    "race_laps": 50,
+    "race_distance_km": 309.958,
+    "lap_record": {
+      "time": "1:35.490",
+      "driver": "Oscar Piastri",
+      "driver_id": "piastri",
+      "year": 2023,
+      "car": "McLaren MCL60"
+    },
+    "historical_layouts": [
+      {
+        "era": "2023-2025",
+        "length_km": 6.201,
+        "corners": 17,
+        "description": "Iconic night circuit running directly down the Las Vegas Boulevard Strip past Caesars Palace, Bellagio, and Sphere.",
+        "lap_record": {
+          "time": "1:35.490",
+          "driver": "Oscar Piastri",
+          "year": 2023
+        }
+      }
+    ],
+    "name_cn": "\u62c9\u65af\u7ef4\u52a0\u65af\u5927\u9053\u8d5b\u9053",
+    "country_cn": "USA",
+    "image": "/images/circuits/las_vegas.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "losail",
+    "official_name": "Lusail International Circuit",
+    "common_name": "Lusail / Qatar",
+    "country": "Qatar",
+    "city": "Lusail",
+    "location": {
+      "lat": 25.49,
+      "lng": 51.4542
+    },
+    "track_type": "Permanent Race Circuit (Night Race)",
+    "direction": "Clockwise",
+    "first_f1_race": 2021,
+    "last_f1_race": 2025,
+    "current_length_km": 5.419,
+    "current_corners": 16,
+    "race_laps": 57,
+    "race_distance_km": 308.611,
+    "lap_record": {
+      "time": "1:23.196",
+      "driver": "Max Verstappen",
+      "driver_id": "max_verstappen",
+      "year": 2023,
+      "car": "Red Bull RB19"
+    },
+    "historical_layouts": [
+      {
+        "era": "2021, 2023-2025",
+        "length_km": 5.419,
+        "corners": 16,
+        "description": "High-downforce flowing circuit with triple right-hander at Turns 12-14.",
+        "lap_record": {
+          "time": "1:23.196",
+          "driver": "Max Verstappen",
+          "year": 2023
+        }
+      }
+    ],
+    "name_cn": "\u5362\u8d5b\u5c14\u56fd\u9645\u8d5b\u8f66\u573a (\u5361\u5854\u5c14)",
+    "country_cn": "Qatar",
+    "image": "/images/circuits/losail.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "rodriguez",
+    "official_name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+    "common_name": "Mexico City / Hermanos Rodr\u00edguez",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "location": {
+      "lat": 19.4042,
+      "lng": -99.0907
+    },
+    "track_type": "Permanent Race Circuit (High Altitude 2285m)",
+    "direction": "Clockwise",
+    "first_f1_race": 1963,
+    "last_f1_race": 2025,
+    "current_length_km": 4.304,
+    "current_corners": 17,
+    "race_laps": 71,
+    "race_distance_km": 305.354,
+    "lap_record": {
+      "time": "1:17.774",
+      "driver": "Valtteri Bottas",
+      "driver_id": "bottas",
+      "year": 2021,
+      "car": "Mercedes-AMG F1 W12 E Performance"
+    },
+    "historical_layouts": [
+      {
+        "era": "2015-2025",
+        "length_km": 4.304,
+        "corners": 17,
+        "description": "Redesigned layout running through the Foro Sol baseball stadium complex.",
+        "lap_record": {
+          "time": "1:17.774",
+          "driver": "Valtteri Bottas",
+          "year": 2021
+        }
+      }
+    ],
+    "name_cn": "\u7f57\u5fb7\u91cc\u683c\u65af\u5144\u5f1f\u8d5b\u9053 (\u58a8\u897f\u54e5\u57ce)",
+    "country_cn": "Mexico",
+    "image": "/images/circuits/rodriguez.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "nurburgring",
+    "official_name": "N\u00fcrburgring GP-Strecke",
+    "common_name": "N\u00fcrburgring",
+    "country": "Germany",
+    "city": "N\u00fcrburg",
+    "location": {
+      "lat": 50.3356,
+      "lng": 6.9475
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1951,
+    "last_f1_race": 2020,
+    "current_length_km": 5.148,
+    "current_corners": 15,
+    "race_laps": 60,
+    "race_distance_km": 308.617,
+    "lap_record": {
+      "time": "1:28.139",
+      "driver": "Max Verstappen",
+      "driver_id": "max_verstappen",
+      "year": 2020,
+      "car": "Red Bull RB16"
+    },
+    "historical_layouts": [
+      {
+        "era": "2000-2001",
+        "length_km": 4.556,
+        "corners": 14,
+        "description": "Castrol S chicane at Turn 1.",
+        "lap_record": {
+          "time": "1:18.354",
+          "driver": "Juan Pablo Montoya",
+          "year": 2001
+        }
+      },
+      {
+        "era": "2002-2020",
+        "length_km": 5.148,
+        "corners": 15,
+        "description": "Mercedes Arena added after Turn 1.",
+        "lap_record": {
+          "time": "1:28.139",
+          "driver": "Max Verstappen",
+          "year": 2020
+        }
+      }
+    ],
+    "name_cn": "\u7ebd\u535a\u683c\u6797\u8d5b\u9053",
+    "country_cn": "Germany",
+    "image": "/images/circuits/nurburgring.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "istanbul",
+    "official_name": "Istanbul Park",
+    "common_name": "Istanbul Park",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "location": {
+      "lat": 40.9517,
+      "lng": 29.405
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Anti-clockwise",
+    "first_f1_race": 2005,
+    "last_f1_race": 2021,
+    "current_length_km": 5.338,
+    "current_corners": 14,
+    "race_laps": 58,
+    "race_distance_km": 309.396,
+    "lap_record": {
+      "time": "1:24.770",
+      "driver": "Juan Pablo Montoya",
+      "driver_id": "montoya",
+      "year": 2005,
+      "car": "McLaren MP4-20"
+    },
+    "historical_layouts": [
+      {
+        "era": "2005-2021",
+        "length_km": 5.338,
+        "corners": 14,
+        "description": "Tilke masterpiece famous for high-G quadruple-apex Turn 8.",
+        "lap_record": {
+          "time": "1:24.770",
+          "driver": "Juan Pablo Montoya",
+          "year": 2005
+        }
+      }
+    ],
+    "name_cn": "\u4f0a\u65af\u5766\u5e03\u5c14\u516c\u56ed\u8d5b\u9053",
+    "country_cn": "Turkey",
+    "image": "/images/circuits/istanbul.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "sochi",
+    "official_name": "Sochi Autodrom",
+    "common_name": "Sochi",
+    "country": "Russia",
+    "city": "Sochi",
+    "location": {
+      "lat": 43.4057,
+      "lng": 39.9578
+    },
+    "track_type": "Semi-permanent Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 2014,
+    "last_f1_race": 2021,
+    "current_length_km": 5.848,
+    "current_corners": 18,
+    "race_laps": 53,
+    "race_distance_km": 309.745,
+    "lap_record": {
+      "time": "1:35.761",
+      "driver": "Lewis Hamilton",
+      "driver_id": "hamilton",
+      "year": 2019,
+      "car": "Mercedes-AMG F1 W10 EQ Power+"
+    },
+    "historical_layouts": [
+      {
+        "era": "2014-2021",
+        "length_km": 5.848,
+        "corners": 18,
+        "description": "Olympic Park circuit wrapping around Medal Plaza with long sweeping Turn 3.",
+        "lap_record": {
+          "time": "1:35.761",
+          "driver": "Lewis Hamilton",
+          "year": 2019
+        }
+      }
+    ],
+    "name_cn": "\u7d22\u5951\u81ea\u52a8\u8f66\u9053",
+    "country_cn": "Russia",
+    "image": null,
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "ricard",
+    "official_name": "Circuit Paul Ricard",
+    "common_name": "Paul Ricard / Le Castellet",
+    "country": "France",
+    "city": "Le Castellet",
+    "location": {
+      "lat": 43.2506,
+      "lng": 5.7917
+    },
+    "track_type": "Permanent Test & Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1971,
+    "last_f1_race": 2022,
+    "current_length_km": 5.842,
+    "current_corners": 15,
+    "race_laps": 53,
+    "race_distance_km": 309.69,
+    "lap_record": {
+      "time": "1:32.740",
+      "driver": "Sebastian Vettel",
+      "driver_id": "vettel",
+      "year": 2019,
+      "car": "Ferrari SF90"
+    },
+    "historical_layouts": [
+      {
+        "era": "2018-2022",
+        "length_km": 5.842,
+        "corners": 15,
+        "description": "1C-V2 layout with chicane dividing the 1.8km Mistral Straight into two sections.",
+        "lap_record": {
+          "time": "1:32.740",
+          "driver": "Sebastian Vettel",
+          "year": 2019
+        }
+      }
+    ],
+    "name_cn": "\u4fdd\u7f57\u00b7\u91cc\u5361\u5c14\u8d5b\u9053",
+    "country_cn": "France",
+    "image": "/images/circuits/ricard.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "portimao",
+    "official_name": "Aut\u00f3dromo Internacional do Algarve",
+    "common_name": "Portim\u00e3o / Algarve",
+    "country": "Portugal",
+    "city": "Portim\u00e3o",
+    "location": {
+      "lat": 37.227,
+      "lng": -8.6267
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 2020,
+    "last_f1_race": 2021,
+    "current_length_km": 4.653,
+    "current_corners": 15,
+    "race_laps": 66,
+    "race_distance_km": 306.826,
+    "lap_record": {
+      "time": "1:18.750",
+      "driver": "Lewis Hamilton",
+      "driver_id": "hamilton",
+      "year": 2020,
+      "car": "Mercedes-AMG F1 W11 EQ Performance"
+    },
+    "historical_layouts": [
+      {
+        "era": "2020-2021",
+        "length_km": 4.653,
+        "corners": 15,
+        "description": "Rollercoaster undulating circuit with blind crests and dropping turns.",
+        "lap_record": {
+          "time": "1:18.750",
+          "driver": "Lewis Hamilton",
+          "year": 2020
+        }
+      }
+    ],
+    "name_cn": "\u963f\u5c14\u52a0\u7ef4\u56fd\u9645\u8d5b\u9053 (\u6ce2\u5c14\u8482\u8292)",
+    "country_cn": "Portugal",
+    "image": null,
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "mugello",
+    "official_name": "Autodromo Internazionale del Mugello",
+    "common_name": "Mugello",
+    "country": "Italy",
+    "city": "Scarperia e San Piero",
+    "location": {
+      "lat": 43.9975,
+      "lng": 11.3719
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 2020,
+    "last_f1_race": 2020,
+    "current_length_km": 5.245,
+    "current_corners": 15,
+    "race_laps": 59,
+    "race_distance_km": 309.497,
+    "lap_record": {
+      "time": "1:18.833",
+      "driver": "Lewis Hamilton",
+      "driver_id": "hamilton",
+      "year": 2020,
+      "car": "Mercedes-AMG F1 W11 EQ Performance"
+    },
+    "historical_layouts": [
+      {
+        "era": "2020 (Tuscan GP - Ferrari 1000th GP)",
+        "length_km": 5.245,
+        "corners": 15,
+        "description": "High-speed sweeping corners (Arrabbiata 1 & 2) in Tuscan hills.",
+        "lap_record": {
+          "time": "1:18.833",
+          "driver": "Lewis Hamilton",
+          "year": 2020
+        }
+      }
+    ],
+    "name_cn": "\u7a46\u6770\u7f57\u56fd\u9645\u8d5b\u9053",
+    "country_cn": "Italy",
+    "image": null,
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "fuji",
+    "official_name": "Fuji Speedway",
+    "common_name": "Fuji",
+    "country": "Japan",
+    "city": "Oyama",
+    "location": {
+      "lat": 35.3717,
+      "lng": 138.927
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 1976,
+    "last_f1_race": 2008,
+    "current_length_km": 4.563,
+    "current_corners": 16,
+    "race_laps": 67,
+    "race_distance_km": 305.721,
+    "lap_record": {
+      "time": "1:18.471",
+      "driver": "Felipe Massa",
+      "driver_id": "massa",
+      "year": 2008,
+      "car": "Ferrari F2008"
+    },
+    "historical_layouts": [
+      {
+        "era": "2007-2008",
+        "length_km": 4.563,
+        "corners": 16,
+        "description": "Hermann Tilke modernized layout with 1.475km main straight under Mount Fuji.",
+        "lap_record": {
+          "time": "1:18.471",
+          "driver": "Felipe Massa",
+          "year": 2008
+        }
+      }
+    ],
+    "name_cn": "\u5bcc\u58eb\u56fd\u9645\u8d5b\u8f66\u573a",
+    "country_cn": "Japan",
+    "image": "/images/circuits/fuji.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "valencia",
+    "official_name": "Valencia Street Circuit",
+    "common_name": "Valencia Street",
+    "country": "Spain",
+    "city": "Valencia",
+    "location": {
+      "lat": 39.4589,
+      "lng": -0.3314
+    },
+    "track_type": "Street Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 2008,
+    "last_f1_race": 2012,
+    "current_length_km": 5.419,
+    "current_corners": 25,
+    "race_laps": 57,
+    "race_distance_km": 308.883,
+    "lap_record": {
+      "time": "1:38.683",
+      "driver": "Timo Glock",
+      "driver_id": "glock",
+      "year": 2009,
+      "car": "Toyota TF109"
+    },
+    "historical_layouts": [
+      {
+        "era": "2008-2012 (European GP)",
+        "length_km": 5.419,
+        "corners": 25,
+        "description": "Port circuit crossing the swing bridge over the marina channel.",
+        "lap_record": {
+          "time": "1:38.683",
+          "driver": "Timo Glock",
+          "year": 2009
+        }
+      }
+    ],
+    "name_cn": "\u74e6\u4f26\u897f\u4e9a\u5e02\u8857\u8d5b\u9053",
+    "country_cn": "Spain",
+    "image": "/images/circuits/valencia.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "yeongam",
+    "official_name": "Korea International Circuit",
+    "common_name": "Yeongam / Korea",
+    "country": "South Korea",
+    "city": "Yeongam",
+    "location": {
+      "lat": 34.7333,
+      "lng": 126.417
+    },
+    "track_type": "Permanent & Semi-street Circuit",
+    "direction": "Anti-clockwise",
+    "first_f1_race": 2010,
+    "last_f1_race": 2013,
+    "current_length_km": 5.615,
+    "current_corners": 18,
+    "race_laps": 55,
+    "race_distance_km": 308.63,
+    "lap_record": {
+      "time": "1:39.605",
+      "driver": "Sebastian Vettel",
+      "driver_id": "vettel",
+      "year": 2011,
+      "car": "Red Bull RB7"
+    },
+    "historical_layouts": [
+      {
+        "era": "2010-2013",
+        "length_km": 5.615,
+        "corners": 18,
+        "description": "Permanent first sector with 1.2km straight combined with marina street section.",
+        "lap_record": {
+          "time": "1:39.605",
+          "driver": "Sebastian Vettel",
+          "year": 2011
+        }
+      }
+    ],
+    "name_cn": "\u97e9\u56fd\u56fd\u9645\u8d5b\u9053 (\u7075\u5ca9)",
+    "country_cn": "South Korea",
+    "image": "/images/circuits/yeongam.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  },
+  {
+    "circuit_id": "buddh",
+    "official_name": "Buddh International Circuit",
+    "common_name": "Buddh / India",
+    "country": "India",
+    "city": "Greater Noida, Uttar Pradesh",
+    "location": {
+      "lat": 28.3486,
+      "lng": 77.5331
+    },
+    "track_type": "Permanent Race Circuit",
+    "direction": "Clockwise",
+    "first_f1_race": 2011,
+    "last_f1_race": 2013,
+    "current_length_km": 5.125,
+    "current_corners": 16,
+    "race_laps": 60,
+    "race_distance_km": 307.249,
+    "lap_record": {
+      "time": "1:27.249",
+      "driver": "Sebastian Vettel",
+      "driver_id": "vettel",
+      "year": 2011,
+      "car": "Red Bull RB7"
+    },
+    "historical_layouts": [
+      {
+        "era": "2011-2013",
+        "length_km": 5.125,
+        "corners": 16,
+        "description": "Dramatic elevation changes with parabolic double-apex Turn 10/11.",
+        "lap_record": {
+          "time": "1:27.249",
+          "driver": "Sebastian Vettel",
+          "year": 2011
+        }
+      }
+    ],
+    "name_cn": "\u4f5b\u9640\u56fd\u9645\u8d5b\u9053",
+    "country_cn": "India",
+    "image": "/images/circuits/buddh.png",
+    "total_grands_prix": 0,
+    "races_history": []
+  }
+]

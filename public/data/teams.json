@@ -1,0 +1,5258 @@
+[
+  {
+    "constructor_id": "ferrari",
+    "name": "Ferrari",
+    "name_cn": "\u6cd5\u62c9\u5229\u8f66\u961f",
+    "nationality": "Italian",
+    "nationality_cn": "\u610f\u5927\u5229",
+    "headquarters": "Maranello, Italy",
+    "lineage": "Scuderia Ferrari (founded 1929, competed in every F1 season since 1950)",
+    "active_seasons": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "championships": 7,
+    "championship_years": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2007,
+      2008
+    ],
+    "wins": 123,
+    "podiums": 389,
+    "poles": 127,
+    "points": 8234.5,
+    "seasons_history": [
+      {
+        "season": 2000,
+        "position": "1",
+        "points": 170.0,
+        "wins": 10,
+        "podiums": 21,
+        "poles": 10
+      },
+      {
+        "season": 2001,
+        "position": "1",
+        "points": 179.0,
+        "wins": 9,
+        "podiums": 24,
+        "poles": 11
+      },
+      {
+        "season": 2002,
+        "position": "1",
+        "points": 221.0,
+        "wins": 15,
+        "podiums": 27,
+        "poles": 10
+      },
+      {
+        "season": 2003,
+        "position": "1",
+        "points": 158.0,
+        "wins": 8,
+        "podiums": 16,
+        "poles": 8
+      },
+      {
+        "season": 2004,
+        "position": "1",
+        "points": 262.0,
+        "wins": 15,
+        "podiums": 29,
+        "poles": 12
+      },
+      {
+        "season": 2005,
+        "position": "3",
+        "points": 100.0,
+        "wins": 1,
+        "podiums": 9,
+        "poles": 1
+      },
+      {
+        "season": 2006,
+        "position": "2",
+        "points": 201.0,
+        "wins": 9,
+        "podiums": 19,
+        "poles": 7
+      },
+      {
+        "season": 2007,
+        "position": "1",
+        "points": 204.0,
+        "wins": 9,
+        "podiums": 22,
+        "poles": 9
+      },
+      {
+        "season": 2008,
+        "position": "1",
+        "points": 172.0,
+        "wins": 8,
+        "podiums": 19,
+        "poles": 8
+      },
+      {
+        "season": 2009,
+        "position": "4",
+        "points": 70.0,
+        "wins": 1,
+        "podiums": 6,
+        "poles": 0
+      },
+      {
+        "season": 2010,
+        "position": "3",
+        "points": 396.0,
+        "wins": 5,
+        "podiums": 15,
+        "poles": 2
+      },
+      {
+        "season": 2011,
+        "position": "3",
+        "points": 375.0,
+        "wins": 1,
+        "podiums": 10,
+        "poles": 0
+      },
+      {
+        "season": 2012,
+        "position": "2",
+        "points": 400.0,
+        "wins": 3,
+        "podiums": 11,
+        "poles": 2
+      },
+      {
+        "season": 2013,
+        "position": "3",
+        "points": 354.0,
+        "wins": 2,
+        "podiums": 6,
+        "poles": 0
+      },
+      {
+        "season": 2014,
+        "position": "4",
+        "points": 216.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      },
+      {
+        "season": 2015,
+        "position": "2",
+        "points": 428.0,
+        "wins": 3,
+        "podiums": 16,
+        "poles": 1
+      },
+      {
+        "season": 2016,
+        "position": "3",
+        "points": 398.0,
+        "wins": 0,
+        "podiums": 11,
+        "poles": 0
+      },
+      {
+        "season": 2017,
+        "position": "2",
+        "points": 522.0,
+        "wins": 5,
+        "podiums": 20,
+        "poles": 5
+      },
+      {
+        "season": 2018,
+        "position": "2",
+        "points": 571.0,
+        "wins": 6,
+        "podiums": 24,
+        "poles": 6
+      },
+      {
+        "season": 2019,
+        "position": "2",
+        "points": 504.0,
+        "wins": 3,
+        "podiums": 19,
+        "poles": 9
+      },
+      {
+        "season": 2021,
+        "position": "3",
+        "points": 323.5,
+        "wins": 0,
+        "podiums": 5,
+        "poles": 2
+      },
+      {
+        "season": 2022,
+        "position": "2",
+        "points": 554.0,
+        "wins": 4,
+        "podiums": 20,
+        "poles": 12
+      },
+      {
+        "season": 2023,
+        "position": "3",
+        "points": 406.0,
+        "wins": 1,
+        "podiums": 9,
+        "poles": 7
+      },
+      {
+        "season": 2024,
+        "position": "2",
+        "points": 652.0,
+        "wins": 5,
+        "podiums": 22,
+        "poles": 4
+      },
+      {
+        "season": 2025,
+        "position": "4",
+        "points": 398.0,
+        "wins": 0,
+        "podiums": 7,
+        "poles": 1
+      }
+    ],
+    "cars": [
+      {
+        "season": 2000,
+        "chassis": "F1-2000",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 049 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2001,
+        "chassis": "F2001",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 050 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2002,
+        "chassis": "F2001 / F2002",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 050 / 051 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2003,
+        "chassis": "F2002 / F2003-GA",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 051 / 052 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2004,
+        "chassis": "F2004",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 053 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2005,
+        "chassis": "F2004M / F2005",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 053 / 055 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2006,
+        "chassis": "248 F1",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2007,
+        "chassis": "F2007",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2008,
+        "chassis": "F2008",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2009,
+        "chassis": "F60",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8 + KERS",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2010,
+        "chassis": "F10",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2011,
+        "chassis": "150\u00b0 Italia",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2012,
+        "chassis": "F12",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2013,
+        "chassis": "F13",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2014,
+        "chassis": "F14 T",
+        "engine_supplier": "Ferrari",
+        "engine_model": "059/3 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2015,
+        "chassis": "SF15-T",
+        "engine_supplier": "Ferrari",
+        "engine_model": "060 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2016,
+        "chassis": "SF16-H",
+        "engine_supplier": "Ferrari",
+        "engine_model": "061 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2017,
+        "chassis": "SF70H",
+        "engine_supplier": "Ferrari",
+        "engine_model": "062 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2018,
+        "chassis": "SF71H",
+        "engine_supplier": "Ferrari",
+        "engine_model": "062 EVO / 063 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2019,
+        "chassis": "SF90",
+        "engine_supplier": "Ferrari",
+        "engine_model": "064 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2020,
+        "chassis": "SF1000",
+        "engine_supplier": "Ferrari",
+        "engine_model": "065 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2021,
+        "chassis": "SF21",
+        "engine_supplier": "Ferrari",
+        "engine_model": "065/6 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2022,
+        "chassis": "F1-75",
+        "engine_supplier": "Ferrari",
+        "engine_model": "066/7 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2023,
+        "chassis": "SF-23",
+        "engine_supplier": "Ferrari",
+        "engine_model": "066/10 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2024,
+        "chassis": "SF-24",
+        "engine_supplier": "Ferrari",
+        "engine_model": "066/12 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2025,
+        "chassis": "SF-25",
+        "engine_supplier": "Ferrari",
+        "engine_model": "066/13 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": [
+      "barrichello",
+      "michael_schumacher"
+    ]
+  },
+  {
+    "constructor_id": "mclaren",
+    "name": "McLaren",
+    "name_cn": "\u8fc8\u51ef\u4f26\u8f66\u961f",
+    "nationality": "British",
+    "nationality_cn": "\u82f1\u56fd",
+    "headquarters": "Woking, Surrey, United Kingdom",
+    "lineage": "Bruce McLaren Motor Racing (founded 1963)",
+    "active_seasons": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "championships": 2,
+    "championship_years": [
+      2024,
+      2025
+    ],
+    "wins": 80,
+    "podiums": 249,
+    "poles": 72,
+    "points": 5261.0,
+    "seasons_history": [
+      {
+        "season": 2000,
+        "position": "2",
+        "points": 162.0,
+        "wins": 7,
+        "podiums": 22,
+        "poles": 7
+      },
+      {
+        "season": 2001,
+        "position": "2",
+        "points": 102.0,
+        "wins": 4,
+        "podiums": 13,
+        "poles": 2
+      },
+      {
+        "season": 2002,
+        "position": "3",
+        "points": 65.0,
+        "wins": 1,
+        "podiums": 10,
+        "poles": 0
+      },
+      {
+        "season": 2003,
+        "position": "3",
+        "points": 142.0,
+        "wins": 2,
+        "podiums": 13,
+        "poles": 2
+      },
+      {
+        "season": 2004,
+        "position": "5",
+        "points": 69.0,
+        "wins": 1,
+        "podiums": 4,
+        "poles": 1
+      },
+      {
+        "season": 2005,
+        "position": "2",
+        "points": 182.0,
+        "wins": 10,
+        "podiums": 18,
+        "poles": 7
+      },
+      {
+        "season": 2006,
+        "position": "3",
+        "points": 110.0,
+        "wins": 0,
+        "podiums": 9,
+        "poles": 3
+      },
+      {
+        "season": 2007,
+        "position": null,
+        "points": 0.0,
+        "wins": 8,
+        "podiums": 24,
+        "poles": 8
+      },
+      {
+        "season": 2008,
+        "position": "2",
+        "points": 151.0,
+        "wins": 6,
+        "podiums": 13,
+        "poles": 8
+      },
+      {
+        "season": 2009,
+        "position": "3",
+        "points": 71.0,
+        "wins": 2,
+        "podiums": 5,
+        "poles": 4
+      },
+      {
+        "season": 2010,
+        "position": "2",
+        "points": 454.0,
+        "wins": 5,
+        "podiums": 16,
+        "poles": 1
+      },
+      {
+        "season": 2011,
+        "position": "2",
+        "points": 497.0,
+        "wins": 6,
+        "podiums": 18,
+        "poles": 1
+      },
+      {
+        "season": 2012,
+        "position": "3",
+        "points": 378.0,
+        "wins": 7,
+        "podiums": 11,
+        "poles": 6
+      },
+      {
+        "season": 2013,
+        "position": "5",
+        "points": 122.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2014,
+        "position": "5",
+        "points": 181.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      },
+      {
+        "season": 2015,
+        "position": "9",
+        "points": 27.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2016,
+        "position": "6",
+        "points": 76.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2017,
+        "position": "9",
+        "points": 30.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2018,
+        "position": "7",
+        "points": 62.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2019,
+        "position": "4",
+        "points": 145.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2021,
+        "position": "4",
+        "points": 275.0,
+        "wins": 1,
+        "podiums": 5,
+        "poles": 1
+      },
+      {
+        "season": 2022,
+        "position": "5",
+        "points": 159.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2023,
+        "position": "4",
+        "points": 302.0,
+        "wins": 0,
+        "podiums": 9,
+        "poles": 0
+      },
+      {
+        "season": 2024,
+        "position": "1",
+        "points": 666.0,
+        "wins": 6,
+        "podiums": 21,
+        "poles": 8
+      },
+      {
+        "season": 2025,
+        "position": "1",
+        "points": 833.0,
+        "wins": 14,
+        "podiums": 34,
+        "poles": 13
+      }
+    ],
+    "cars": [
+      {
+        "season": 2000,
+        "chassis": "MP4/15",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 110J 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2001,
+        "chassis": "MP4-16",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 110K 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2002,
+        "chassis": "MP4-17",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 110M 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2003,
+        "chassis": "MP4-17D",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 110P 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2004,
+        "chassis": "MP4-19 / MP4-19B",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 110Q 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2005,
+        "chassis": "MP4-20",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 110R 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2006,
+        "chassis": "MP4-21",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108S 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2007,
+        "chassis": "MP4-22",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108T 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2008,
+        "chassis": "MP4-23",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108V 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2009,
+        "chassis": "MP4-24",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108W 2.4 V8 + KERS",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2010,
+        "chassis": "MP4-25",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2011,
+        "chassis": "MP4-26",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2012,
+        "chassis": "MP4-27",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2013,
+        "chassis": "MP4-28",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2014,
+        "chassis": "MP4-29",
+        "engine_supplier": "Mercedes",
+        "engine_model": "PU106A Hybrid 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2015,
+        "chassis": "MP4-30",
+        "engine_supplier": "Honda",
+        "engine_model": "RA615H 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2016,
+        "chassis": "MP4-31",
+        "engine_supplier": "Honda",
+        "engine_model": "RA616H 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2017,
+        "chassis": "MCL32",
+        "engine_supplier": "Honda",
+        "engine_model": "RA617H 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2018,
+        "chassis": "MCL33",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault R.E.18 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2019,
+        "chassis": "MCL34",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault E-Tech 19 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2020,
+        "chassis": "MCL35",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault E-Tech 20 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2021,
+        "chassis": "MCL35M",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M12 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2022,
+        "chassis": "MCL36",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M13 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2023,
+        "chassis": "MCL60",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M14 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2024,
+        "chassis": "MCL38",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M15 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2025,
+        "chassis": "MCL39",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M16 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": [
+      "coulthard",
+      "de_la_rosa",
+      "hakkinen",
+      "montoya",
+      "raikkonen",
+      "wurz"
+    ]
+  },
+  {
+    "constructor_id": "williams",
+    "name": "Williams",
+    "name_cn": "\u5a01\u5ec9\u59c6\u65af\u8f66\u961f",
+    "nationality": "British",
+    "nationality_cn": "\u82f1\u56fd",
+    "headquarters": "Grove, Oxfordshire, United Kingdom",
+    "lineage": "Williams Grand Prix Engineering (founded 1977 by Frank Williams and Patrick Head)",
+    "active_seasons": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 11,
+    "podiums": 67,
+    "poles": 20,
+    "points": 1784.5,
+    "seasons_history": [
+      {
+        "season": 2000,
+        "position": "3",
+        "points": 36.0,
+        "wins": 0,
+        "podiums": 3,
+        "poles": 0
+      },
+      {
+        "season": 2001,
+        "position": "3",
+        "points": 80.0,
+        "wins": 4,
+        "podiums": 9,
+        "poles": 4
+      },
+      {
+        "season": 2002,
+        "position": "2",
+        "points": 92.0,
+        "wins": 1,
+        "podiums": 13,
+        "poles": 7
+      },
+      {
+        "season": 2003,
+        "position": "2",
+        "points": 144.0,
+        "wins": 4,
+        "podiums": 12,
+        "poles": 4
+      },
+      {
+        "season": 2004,
+        "position": "4",
+        "points": 88.0,
+        "wins": 1,
+        "podiums": 4,
+        "poles": 1
+      },
+      {
+        "season": 2005,
+        "position": "5",
+        "points": 66.0,
+        "wins": 0,
+        "podiums": 4,
+        "poles": 1
+      },
+      {
+        "season": 2006,
+        "position": "8",
+        "points": 11.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2007,
+        "position": "4",
+        "points": 33.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2008,
+        "position": "8",
+        "points": 26.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      },
+      {
+        "season": 2009,
+        "position": "7",
+        "points": 34.5,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2010,
+        "position": "6",
+        "points": 69.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 1
+      },
+      {
+        "season": 2011,
+        "position": "9",
+        "points": 5.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2012,
+        "position": "8",
+        "points": 76.0,
+        "wins": 1,
+        "podiums": 1,
+        "poles": 1
+      },
+      {
+        "season": 2013,
+        "position": "9",
+        "points": 5.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2014,
+        "position": "3",
+        "points": 320.0,
+        "wins": 0,
+        "podiums": 9,
+        "poles": 1
+      },
+      {
+        "season": 2015,
+        "position": "3",
+        "points": 257.0,
+        "wins": 0,
+        "podiums": 4,
+        "poles": 0
+      },
+      {
+        "season": 2016,
+        "position": "5",
+        "points": 138.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2017,
+        "position": "5",
+        "points": 83.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2018,
+        "position": "10",
+        "points": 7.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2019,
+        "position": "10",
+        "points": 1.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2021,
+        "position": "8",
+        "points": 23.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2022,
+        "position": "10",
+        "points": 8.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2023,
+        "position": "7",
+        "points": 28.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2024,
+        "position": "9",
+        "points": 17.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2025,
+        "position": "5",
+        "points": 137.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2000,
+        "chassis": "FW22",
+        "engine_supplier": "BMW",
+        "engine_model": "BMW E41/4 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2001,
+        "chassis": "FW23",
+        "engine_supplier": "BMW",
+        "engine_model": "BMW P80 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2002,
+        "chassis": "FW24",
+        "engine_supplier": "BMW",
+        "engine_model": "BMW P82 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2003,
+        "chassis": "FW25",
+        "engine_supplier": "BMW",
+        "engine_model": "BMW P83 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2004,
+        "chassis": "FW26",
+        "engine_supplier": "BMW",
+        "engine_model": "BMW P84 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2005,
+        "chassis": "FW27",
+        "engine_supplier": "BMW",
+        "engine_model": "BMW P84/5 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2006,
+        "chassis": "FW28",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CA2006 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2007,
+        "chassis": "FW29",
+        "engine_supplier": "Toyota",
+        "engine_model": "Toyota RVX-07 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2008,
+        "chassis": "FW30",
+        "engine_supplier": "Toyota",
+        "engine_model": "Toyota RVX-08 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2009,
+        "chassis": "FW31",
+        "engine_supplier": "Toyota",
+        "engine_model": "Toyota RVX-09 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2010,
+        "chassis": "FW32",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CA2010",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2011,
+        "chassis": "FW33",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CA2010",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2012,
+        "chassis": "FW34",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27-2012 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2013,
+        "chassis": "FW35",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27-2013 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2014,
+        "chassis": "FW36",
+        "engine_supplier": "Mercedes",
+        "engine_model": "PU106A Hybrid 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2015,
+        "chassis": "FW37",
+        "engine_supplier": "Mercedes",
+        "engine_model": "PU106B Hybrid 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2016,
+        "chassis": "FW38",
+        "engine_supplier": "Mercedes",
+        "engine_model": "PU106C Hybrid 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2017,
+        "chassis": "FW40",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M08 EQ Power+ 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2018,
+        "chassis": "FW41",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M09 EQ Power+ 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2019,
+        "chassis": "FW42",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M10 EQ Power+ 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2020,
+        "chassis": "FW43",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M11 EQ Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2021,
+        "chassis": "FW43B",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M12 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2022,
+        "chassis": "FW44",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M13 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2023,
+        "chassis": "FW45",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M14 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2024,
+        "chassis": "FW46",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M15 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2025,
+        "chassis": "FW47",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M16 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": [
+      "button",
+      "gene",
+      "heidfeld",
+      "montoya",
+      "pizzonia",
+      "ralf_schumacher",
+      "webber"
+    ]
+  },
+  {
+    "constructor_id": "benetton",
+    "name": "Benetton",
+    "name_cn": "\u8d1d\u7eb3\u901a\u8f66\u961f",
+    "nationality": "Italian",
+    "nationality_cn": "\u610f\u5927\u5229",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2000,
+      2001
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 4,
+    "poles": 0,
+    "points": 30.0,
+    "seasons_history": [
+      {
+        "season": 2000,
+        "position": "4",
+        "points": 20.0,
+        "wins": 0,
+        "podiums": 3,
+        "poles": 0
+      },
+      {
+        "season": 2001,
+        "position": "7",
+        "points": 10.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2000,
+        "chassis": "B200",
+        "engine_supplier": "Playlife (Renault)",
+        "engine_model": "Playlife FB02 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2001,
+        "chassis": "B201",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS21 3.0 V10 (111-degree)",
+        "engine_era": "2000-2005"
+      }
+    ],
+    "drivers": [
+      "button",
+      "fisichella",
+      "wurz"
+    ]
+  },
+  {
+    "constructor_id": "bar",
+    "name": "BAR",
+    "name_cn": "\u82f1\u7f8e\u8f66\u961f (BAR)",
+    "nationality": "British",
+    "nationality_cn": "\u82f1\u56fd",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 15,
+    "poles": 2,
+    "points": 227.0,
+    "seasons_history": [
+      {
+        "season": 2000,
+        "position": "5",
+        "points": 20.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2001,
+        "position": "6",
+        "points": 17.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      },
+      {
+        "season": 2002,
+        "position": "8",
+        "points": 7.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2003,
+        "position": "5",
+        "points": 26.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2004,
+        "position": "2",
+        "points": 119.0,
+        "wins": 0,
+        "podiums": 11,
+        "poles": 1
+      },
+      {
+        "season": 2005,
+        "position": "6",
+        "points": 38.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 1
+      }
+    ],
+    "cars": [
+      {
+        "season": 2000,
+        "chassis": "002",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA000E 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2001,
+        "chassis": "003",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA001E 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2002,
+        "chassis": "004",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA002E 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2003,
+        "chassis": "005",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA003E 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2004,
+        "chassis": "006",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA004E 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2005,
+        "chassis": "007",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA005E 3.0 V10",
+        "engine_era": "2000-2005"
+      }
+    ],
+    "drivers": [
+      "button",
+      "davidson",
+      "panis",
+      "sato",
+      "villeneuve",
+      "zonta"
+    ]
+  },
+  {
+    "constructor_id": "jordan",
+    "name": "Jordan",
+    "name_cn": "\u4e54\u4e39\u8f66\u961f",
+    "nationality": "Irish",
+    "nationality_cn": "\u7231\u5c14\u5170",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 1,
+    "podiums": 4,
+    "poles": 0,
+    "points": 75.0,
+    "seasons_history": [
+      {
+        "season": 2000,
+        "position": "6",
+        "points": 17.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      },
+      {
+        "season": 2001,
+        "position": "5",
+        "points": 19.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2002,
+        "position": "6",
+        "points": 9.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2003,
+        "position": "9",
+        "points": 13.0,
+        "wins": 1,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2004,
+        "position": "9",
+        "points": 5.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2005,
+        "position": "9",
+        "points": 12.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2000,
+        "chassis": "EJ10 / EJ10B",
+        "engine_supplier": "Mugen-Honda",
+        "engine_model": "Mugen-Honda MF-301 HE 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2001,
+        "chassis": "EJ11",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA001E 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2002,
+        "chassis": "EJ12",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA002E 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2003,
+        "chassis": "EJ13",
+        "engine_supplier": "Ford",
+        "engine_model": "Ford RS1 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2004,
+        "chassis": "EJ14",
+        "engine_supplier": "Ford",
+        "engine_model": "Ford RS2 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2005,
+        "chassis": "EJ15 / EJ15B",
+        "engine_supplier": "Toyota",
+        "engine_model": "Toyota RVX-05 3.0 V10",
+        "engine_era": "2000-2005"
+      }
+    ],
+    "drivers": [
+      "alesi",
+      "baumgartner",
+      "firman",
+      "fisichella",
+      "frentzen",
+      "glock",
+      "heidfeld",
+      "karthikeyan",
+      "monteiro",
+      "pantano",
+      "sato",
+      "trulli",
+      "zonta"
+    ]
+  },
+  {
+    "constructor_id": "arrows",
+    "name": "Arrows",
+    "name_cn": "\u98de\u7bad\u8f66\u961f",
+    "nationality": "British",
+    "nationality_cn": "\u82f1\u56fd",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2000,
+      2001,
+      2002
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 10.0,
+    "seasons_history": [
+      {
+        "season": 2000,
+        "position": "7",
+        "points": 7.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2001,
+        "position": "10",
+        "points": 1.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2002,
+        "position": "11",
+        "points": 2.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2000,
+        "chassis": "A21",
+        "engine_supplier": "Supertec",
+        "engine_model": "Supertec FB02 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2001,
+        "chassis": "A22",
+        "engine_supplier": "Asiatech (Peugeot)",
+        "engine_model": "Asiatech 001 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2002,
+        "chassis": "A23",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CR-3 3.0 V10",
+        "engine_era": "2000-2005"
+      }
+    ],
+    "drivers": [
+      "bernoldi",
+      "delarosa",
+      "frentzen",
+      "verstappen"
+    ]
+  },
+  {
+    "constructor_id": "sauber",
+    "name": "Sauber",
+    "name_cn": "\u7d22\u4f2f\u8f66\u961f",
+    "nationality": "Swiss",
+    "nationality_cn": "\u745e\u58eb",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2024,
+      2025
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 7,
+    "poles": 0,
+    "points": 547.0,
+    "seasons_history": [
+      {
+        "season": 2000,
+        "position": "8",
+        "points": 6.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2001,
+        "position": "4",
+        "points": 21.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2002,
+        "position": "5",
+        "points": 11.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2003,
+        "position": "6",
+        "points": 19.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2004,
+        "position": "6",
+        "points": 34.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2005,
+        "position": "8",
+        "points": 20.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2010,
+        "position": "8",
+        "points": 44.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2011,
+        "position": "7",
+        "points": 44.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2012,
+        "position": "6",
+        "points": 126.0,
+        "wins": 0,
+        "podiums": 4,
+        "poles": 0
+      },
+      {
+        "season": 2013,
+        "position": "7",
+        "points": 57.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2014,
+        "position": "10",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2015,
+        "position": "8",
+        "points": 36.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2016,
+        "position": "10",
+        "points": 2.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2017,
+        "position": "10",
+        "points": 5.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2018,
+        "position": "8",
+        "points": 48.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2024,
+        "position": "10",
+        "points": 4.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2025,
+        "position": "9",
+        "points": 70.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2000,
+        "chassis": "C19",
+        "engine_supplier": "Petronas (Ferrari)",
+        "engine_model": "Petronas SPE 04A 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2001,
+        "chassis": "C20",
+        "engine_supplier": "Petronas (Ferrari)",
+        "engine_model": "Petronas 01A 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2002,
+        "chassis": "C21",
+        "engine_supplier": "Petronas (Ferrari)",
+        "engine_model": "Petronas 02A 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2003,
+        "chassis": "C22",
+        "engine_supplier": "Petronas (Ferrari)",
+        "engine_model": "Petronas 03A 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2004,
+        "chassis": "C23",
+        "engine_supplier": "Petronas (Ferrari)",
+        "engine_model": "Petronas 04A 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2005,
+        "chassis": "C24",
+        "engine_supplier": "Petronas (Ferrari)",
+        "engine_model": "Petronas 05A 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2010,
+        "chassis": "C29",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2011,
+        "chassis": "C30",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2012,
+        "chassis": "C31",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2013,
+        "chassis": "C32",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2014,
+        "chassis": "C33",
+        "engine_supplier": "Ferrari",
+        "engine_model": "059/3 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2015,
+        "chassis": "C34",
+        "engine_supplier": "Ferrari",
+        "engine_model": "060 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2016,
+        "chassis": "C35",
+        "engine_supplier": "Ferrari",
+        "engine_model": "061 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2017,
+        "chassis": "C36",
+        "engine_supplier": "Ferrari",
+        "engine_model": "061 (2016-spec) 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2018,
+        "chassis": "C37",
+        "engine_supplier": "Ferrari",
+        "engine_model": "063 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2024,
+        "chassis": "C44",
+        "engine_supplier": "Ferrari",
+        "engine_model": "066/12 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2025,
+        "chassis": "C45",
+        "engine_supplier": "Ferrari",
+        "engine_model": "066/13 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": [
+      "diniz",
+      "fisichella",
+      "frentzen",
+      "heidfeld",
+      "massa",
+      "raikkonen",
+      "salo",
+      "villeneuve"
+    ]
+  },
+  {
+    "constructor_id": "jaguar",
+    "name": "Jaguar",
+    "name_cn": "\u6377\u8c79\u8f66\u961f (\u7f8e\u6d32\u864e)",
+    "nationality": "British",
+    "nationality_cn": "\u82f1\u56fd",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2004
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 2,
+    "poles": 0,
+    "points": 49.0,
+    "seasons_history": [
+      {
+        "season": 2000,
+        "position": "9",
+        "points": 4.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2001,
+        "position": "8",
+        "points": 9.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2002,
+        "position": "7",
+        "points": 8.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2003,
+        "position": "7",
+        "points": 18.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2004,
+        "position": "7",
+        "points": 10.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2000,
+        "chassis": "R1",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CR-2 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2001,
+        "chassis": "R2",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CR-3 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2002,
+        "chassis": "R3",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CR-3 / CR-4 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2003,
+        "chassis": "R4",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CR-5 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2004,
+        "chassis": "R5",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CR-6 3.0 V10",
+        "engine_era": "2000-2005"
+      }
+    ],
+    "drivers": [
+      "burti",
+      "de_la_rosa",
+      "herbert",
+      "irvine",
+      "klien",
+      "pizzonia",
+      "webber",
+      "wilson"
+    ]
+  },
+  {
+    "constructor_id": "minardi",
+    "name": "Minardi",
+    "name_cn": "\u7c73\u7eb3\u5c14\u8fea\u8f66\u961f",
+    "nationality": "Italian",
+    "nationality_cn": "\u610f\u5927\u5229",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 10.0,
+    "seasons_history": [
+      {
+        "season": 2000,
+        "position": null,
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2001,
+        "position": null,
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2002,
+        "position": "9",
+        "points": 2.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2003,
+        "position": "10",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2004,
+        "position": "10",
+        "points": 1.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2005,
+        "position": "10",
+        "points": 7.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2000,
+        "chassis": "M02",
+        "engine_supplier": "Fondmetal (Ford)",
+        "engine_model": "Fondmetal RV10 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2001,
+        "chassis": "PS01",
+        "engine_supplier": "European (Ford)",
+        "engine_model": "European 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2002,
+        "chassis": "PS02",
+        "engine_supplier": "Asiatech",
+        "engine_model": "Asiatech AT02 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2003,
+        "chassis": "PS03",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CR-3 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2004,
+        "chassis": "PS04B",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CR-3L 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2005,
+        "chassis": "PS04B / PS05",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CRL-3 / TJ2005 3.0 V10",
+        "engine_era": "2000-2005"
+      }
+    ],
+    "drivers": [
+      "albers",
+      "alonso",
+      "baumgartner",
+      "bruni",
+      "davidson",
+      "doornbos",
+      "friesacher",
+      "gene",
+      "kiesa",
+      "mazzacane",
+      "tarso_marques",
+      "verstappen",
+      "webber",
+      "wilson",
+      "yoong"
+    ]
+  },
+  {
+    "constructor_id": "prost",
+    "name": "Prost",
+    "name_cn": "\u666e\u7f57\u65af\u7279\u8f66\u961f",
+    "nationality": "French",
+    "nationality_cn": "\u6cd5\u56fd",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2000,
+      2001
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 4.0,
+    "seasons_history": [
+      {
+        "season": 2000,
+        "position": null,
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2001,
+        "position": "9",
+        "points": 4.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2000,
+        "chassis": "AP03",
+        "engine_supplier": "Peugeot",
+        "engine_model": "Peugeot A20 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2001,
+        "chassis": "AP04",
+        "engine_supplier": "Acer (Ferrari)",
+        "engine_model": "Acer 01A 3.0 V10",
+        "engine_era": "2000-2005"
+      }
+    ],
+    "drivers": [
+      "alesi",
+      "burti",
+      "enge",
+      "frentzen",
+      "heidfeld",
+      "mazzacane"
+    ]
+  },
+  {
+    "constructor_id": "renault",
+    "name": "Renault",
+    "name_cn": "\u96f7\u8bfa\u8f66\u961f",
+    "nationality": "French",
+    "nationality_cn": "\u6cd5\u56fd",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "championships": 2,
+    "championship_years": [
+      2005,
+      2006
+    ],
+    "wins": 20,
+    "podiums": 59,
+    "poles": 20,
+    "points": 1284.0,
+    "seasons_history": [
+      {
+        "season": 2002,
+        "position": "4",
+        "points": 23.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2003,
+        "position": "4",
+        "points": 88.0,
+        "wins": 1,
+        "podiums": 5,
+        "poles": 2
+      },
+      {
+        "season": 2004,
+        "position": "3",
+        "points": 105.0,
+        "wins": 1,
+        "podiums": 6,
+        "poles": 3
+      },
+      {
+        "season": 2005,
+        "position": "1",
+        "points": 191.0,
+        "wins": 8,
+        "podiums": 18,
+        "poles": 7
+      },
+      {
+        "season": 2006,
+        "position": "1",
+        "points": 206.0,
+        "wins": 8,
+        "podiums": 19,
+        "poles": 7
+      },
+      {
+        "season": 2007,
+        "position": "3",
+        "points": 51.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2008,
+        "position": "4",
+        "points": 80.0,
+        "wins": 2,
+        "podiums": 4,
+        "poles": 0
+      },
+      {
+        "season": 2009,
+        "position": "8",
+        "points": 26.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 1
+      },
+      {
+        "season": 2010,
+        "position": "5",
+        "points": 163.0,
+        "wins": 0,
+        "podiums": 3,
+        "poles": 0
+      },
+      {
+        "season": 2011,
+        "position": "5",
+        "points": 73.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      },
+      {
+        "season": 2016,
+        "position": "9",
+        "points": 8.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2017,
+        "position": "6",
+        "points": 57.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2018,
+        "position": "4",
+        "points": 122.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2019,
+        "position": "5",
+        "points": 91.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2002,
+        "chassis": "R202",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS22 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2003,
+        "chassis": "R23 / R23B",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS23 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2004,
+        "chassis": "R24",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS24 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2005,
+        "chassis": "R25",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS25 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2006,
+        "chassis": "R26",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS26 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2007,
+        "chassis": "R27",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2008,
+        "chassis": "R28",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2009,
+        "chassis": "R29",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27-2009 2.4 V8 + KERS",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2010,
+        "chassis": "R30",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27-2010 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2011,
+        "chassis": "R31",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27-2011 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2016,
+        "chassis": "R.S.16",
+        "engine_supplier": "Renault",
+        "engine_model": "R.E.16 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2017,
+        "chassis": "R.S.17",
+        "engine_supplier": "Renault",
+        "engine_model": "R.E.17 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2018,
+        "chassis": "R.S.18",
+        "engine_supplier": "Renault",
+        "engine_model": "R.E.18 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2019,
+        "chassis": "R.S.19",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault E-Tech 19 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2020,
+        "chassis": "R.S.20",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault E-Tech 20 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": [
+      "alonso",
+      "button",
+      "fisichella",
+      "trulli",
+      "villeneuve"
+    ]
+  },
+  {
+    "constructor_id": "toyota",
+    "name": "Toyota",
+    "name_cn": "\u4e30\u7530\u8f66\u961f",
+    "nationality": "Japanese",
+    "nationality_cn": "\u65e5\u672c",
+    "headquarters": "Cologne, Germany",
+    "lineage": "Toyota Motorsport GmbH factory F1 program (2002-2009)",
+    "active_seasons": [
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 13,
+    "poles": 3,
+    "points": 278.5,
+    "seasons_history": [
+      {
+        "season": 2002,
+        "position": "10",
+        "points": 2.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2003,
+        "position": "8",
+        "points": 16.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2004,
+        "position": "8",
+        "points": 9.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2005,
+        "position": "4",
+        "points": 88.0,
+        "wins": 0,
+        "podiums": 5,
+        "poles": 2
+      },
+      {
+        "season": 2006,
+        "position": "6",
+        "points": 35.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2007,
+        "position": "6",
+        "points": 13.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2008,
+        "position": "5",
+        "points": 56.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      },
+      {
+        "season": 2009,
+        "position": "5",
+        "points": 59.5,
+        "wins": 0,
+        "podiums": 5,
+        "poles": 1
+      }
+    ],
+    "cars": [
+      {
+        "season": 2002,
+        "chassis": "TF102",
+        "engine_supplier": "Toyota",
+        "engine_model": "Toyota RVX-02 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2003,
+        "chassis": "TF103",
+        "engine_supplier": "Toyota",
+        "engine_model": "Toyota RVX-03 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2004,
+        "chassis": "TF104 / TF104B",
+        "engine_supplier": "Toyota",
+        "engine_model": "Toyota RVX-04 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2005,
+        "chassis": "TF105 / TF105B",
+        "engine_supplier": "Toyota",
+        "engine_model": "Toyota RVX-05 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2006,
+        "chassis": "TF106 / TF106B",
+        "engine_supplier": "Toyota",
+        "engine_model": "Toyota RVX-06 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2007,
+        "chassis": "TF107",
+        "engine_supplier": "Toyota",
+        "engine_model": "Toyota RVX-07 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2008,
+        "chassis": "TF108",
+        "engine_supplier": "Toyota",
+        "engine_model": "Toyota RVX-08 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2009,
+        "chassis": "TF109",
+        "engine_supplier": "Toyota",
+        "engine_model": "Toyota RVX-09 2.4 V8",
+        "engine_era": "2006-2013"
+      }
+    ],
+    "drivers": [
+      "da_matta",
+      "mcnish",
+      "panis",
+      "ralf_schumacher",
+      "salo",
+      "trulli",
+      "zonta"
+    ]
+  },
+  {
+    "constructor_id": "red_bull",
+    "name": "Red Bull",
+    "name_cn": "\u7ea2\u725b\u8f66\u961f",
+    "nationality": "Austrian",
+    "nationality_cn": "\u5965\u5730\u5229",
+    "headquarters": "Milton Keynes, Buckinghamshire, United Kingdom",
+    "lineage": "Stewart Grand Prix (1997-1999) -> Jaguar Racing (2000-2004) -> Red Bull Racing (2005-present)",
+    "active_seasons": [
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "championships": 6,
+    "championship_years": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2022,
+      2023
+    ],
+    "wins": 128,
+    "podiums": 267,
+    "poles": 101,
+    "points": 7969.0,
+    "seasons_history": [
+      {
+        "season": 2005,
+        "position": "7",
+        "points": 34.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2006,
+        "position": "7",
+        "points": 16.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2007,
+        "position": "5",
+        "points": 24.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2008,
+        "position": "7",
+        "points": 29.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2009,
+        "position": "2",
+        "points": 153.5,
+        "wins": 6,
+        "podiums": 16,
+        "poles": 5
+      },
+      {
+        "season": 2010,
+        "position": "1",
+        "points": 498.0,
+        "wins": 9,
+        "podiums": 20,
+        "poles": 15
+      },
+      {
+        "season": 2011,
+        "position": "1",
+        "points": 650.0,
+        "wins": 12,
+        "podiums": 27,
+        "poles": 18
+      },
+      {
+        "season": 2012,
+        "position": "1",
+        "points": 460.0,
+        "wins": 7,
+        "podiums": 12,
+        "poles": 7
+      },
+      {
+        "season": 2013,
+        "position": "1",
+        "points": 596.0,
+        "wins": 13,
+        "podiums": 9,
+        "poles": 3
+      },
+      {
+        "season": 2014,
+        "position": "2",
+        "points": 405.0,
+        "wins": 3,
+        "podiums": 12,
+        "poles": 0
+      },
+      {
+        "season": 2015,
+        "position": "4",
+        "points": 187.0,
+        "wins": 0,
+        "podiums": 3,
+        "poles": 0
+      },
+      {
+        "season": 2016,
+        "position": "2",
+        "points": 468.0,
+        "wins": 2,
+        "podiums": 16,
+        "poles": 1
+      },
+      {
+        "season": 2017,
+        "position": "3",
+        "points": 368.0,
+        "wins": 3,
+        "podiums": 13,
+        "poles": 0
+      },
+      {
+        "season": 2018,
+        "position": "3",
+        "points": 419.0,
+        "wins": 4,
+        "podiums": 13,
+        "poles": 2
+      },
+      {
+        "season": 2019,
+        "position": "3",
+        "points": 417.0,
+        "wins": 3,
+        "podiums": 9,
+        "poles": 2
+      },
+      {
+        "season": 2021,
+        "position": "2",
+        "points": 585.5,
+        "wins": 11,
+        "podiums": 23,
+        "poles": 10
+      },
+      {
+        "season": 2022,
+        "position": "1",
+        "points": 759.0,
+        "wins": 17,
+        "podiums": 28,
+        "poles": 8
+      },
+      {
+        "season": 2023,
+        "position": "1",
+        "points": 860.0,
+        "wins": 21,
+        "podiums": 30,
+        "poles": 14
+      },
+      {
+        "season": 2024,
+        "position": "3",
+        "points": 589.0,
+        "wins": 9,
+        "podiums": 18,
+        "poles": 8
+      },
+      {
+        "season": 2025,
+        "position": "3",
+        "points": 451.0,
+        "wins": 8,
+        "podiums": 15,
+        "poles": 8
+      }
+    ],
+    "cars": [
+      {
+        "season": 2005,
+        "chassis": "RB1",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth TJ2005 3.0 V10",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2006,
+        "chassis": "RB2",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2007,
+        "chassis": "RB3",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2008,
+        "chassis": "RB4",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2009,
+        "chassis": "RB5",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27-2009 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2010,
+        "chassis": "RB5",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27-2010 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2011,
+        "chassis": "RB6",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27-2011 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2012,
+        "chassis": "RB7",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27-2012 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2013,
+        "chassis": "RB8",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27-2013 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2014,
+        "chassis": "RB10",
+        "engine_supplier": "Renault",
+        "engine_model": "Energy F1-2014 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2015,
+        "chassis": "RB11",
+        "engine_supplier": "Renault",
+        "engine_model": "Energy F1-2015 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2016,
+        "chassis": "RB12",
+        "engine_supplier": "TAG Heuer (Renault)",
+        "engine_model": "TAG Heuer (Renault R.E.16) 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2017,
+        "chassis": "RB13",
+        "engine_supplier": "TAG Heuer (Renault)",
+        "engine_model": "TAG Heuer (R.E.17) 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2018,
+        "chassis": "RB14",
+        "engine_supplier": "TAG Heuer (Renault)",
+        "engine_model": "TAG Heuer (R.E.18) 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2019,
+        "chassis": "RB15",
+        "engine_supplier": "Honda",
+        "engine_model": "RA619H 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2020,
+        "chassis": "RB16",
+        "engine_supplier": "Honda",
+        "engine_model": "RA620H 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2021,
+        "chassis": "RB16B",
+        "engine_supplier": "Honda",
+        "engine_model": "RA621H 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2022,
+        "chassis": "RB18",
+        "engine_supplier": "Red Bull Powertrains (Honda)",
+        "engine_model": "RBPTH001 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2023,
+        "chassis": "RB19",
+        "engine_supplier": "Honda RBPT",
+        "engine_model": "Honda RBPTH001 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2024,
+        "chassis": "RB20",
+        "engine_supplier": "Honda RBPT",
+        "engine_model": "Honda RBPTH002 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2025,
+        "chassis": "RB21",
+        "engine_supplier": "Honda RBPT",
+        "engine_model": "Honda RBPTH003 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": [
+      "coulthard",
+      "klien",
+      "liuzzi"
+    ]
+  },
+  {
+    "constructor_id": "honda",
+    "name": "Honda",
+    "name_cn": "\u672c\u7530\u8f66\u961f",
+    "nationality": "Japanese",
+    "nationality_cn": "\u65e5\u672c",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2006,
+      2007,
+      2008
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 1,
+    "podiums": 4,
+    "poles": 1,
+    "points": 106.0,
+    "seasons_history": [
+      {
+        "season": 2006,
+        "position": "4",
+        "points": 86.0,
+        "wins": 1,
+        "podiums": 3,
+        "poles": 1
+      },
+      {
+        "season": 2007,
+        "position": "8",
+        "points": 6.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2008,
+        "position": "9",
+        "points": 14.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2006,
+        "chassis": "RA106",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA806E 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2007,
+        "chassis": "RA107",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA807E 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2008,
+        "chassis": "RA108",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA808E 2.4 V8",
+        "engine_era": "2006-2013"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "bmw_sauber",
+    "name": "BMW Sauber",
+    "name_cn": "\u5b9d\u9a6c\u7d22\u4f2f\u8f66\u961f",
+    "nationality": "German",
+    "nationality_cn": "\u5fb7\u56fd",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2006,
+      2007,
+      2008,
+      2009
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 1,
+    "podiums": 17,
+    "poles": 1,
+    "points": 308.0,
+    "seasons_history": [
+      {
+        "season": 2006,
+        "position": "5",
+        "points": 36.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      },
+      {
+        "season": 2007,
+        "position": "2",
+        "points": 101.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      },
+      {
+        "season": 2008,
+        "position": "3",
+        "points": 135.0,
+        "wins": 1,
+        "podiums": 11,
+        "poles": 1
+      },
+      {
+        "season": 2009,
+        "position": "6",
+        "points": 36.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2006,
+        "chassis": "F1.06",
+        "engine_supplier": "BMW",
+        "engine_model": "BMW P86 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2007,
+        "chassis": "F1.07",
+        "engine_supplier": "BMW",
+        "engine_model": "BMW P86/7 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2008,
+        "chassis": "F1.08",
+        "engine_supplier": "BMW",
+        "engine_model": "BMW P86/8 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2009,
+        "chassis": "F1.09",
+        "engine_supplier": "BMW",
+        "engine_model": "BMW P86/9 2.4 V8 + KERS",
+        "engine_era": "2006-2013"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "toro_rosso",
+    "name": "Toro Rosso",
+    "name_cn": "\u7ea2\u725b\u4e8c\u961f (Toro Rosso)",
+    "nationality": "Italian",
+    "nationality_cn": "\u610f\u5927\u5229",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 1,
+    "podiums": 3,
+    "poles": 1,
+    "points": 500.0,
+    "seasons_history": [
+      {
+        "season": 2006,
+        "position": "9",
+        "points": 1.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2007,
+        "position": "7",
+        "points": 8.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2008,
+        "position": "6",
+        "points": 39.0,
+        "wins": 1,
+        "podiums": 1,
+        "poles": 1
+      },
+      {
+        "season": 2009,
+        "position": "10",
+        "points": 8.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2010,
+        "position": "9",
+        "points": 13.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2011,
+        "position": "8",
+        "points": 41.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2012,
+        "position": "9",
+        "points": 26.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2013,
+        "position": "8",
+        "points": 33.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2014,
+        "position": "7",
+        "points": 30.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2015,
+        "position": "7",
+        "points": 67.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2016,
+        "position": "7",
+        "points": 63.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2017,
+        "position": "7",
+        "points": 53.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2018,
+        "position": "9",
+        "points": 33.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2019,
+        "position": "6",
+        "points": 85.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2006,
+        "chassis": "STR1",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth TJ2005 3.0 V10 (rev-limited)",
+        "engine_era": "2000-2005"
+      },
+      {
+        "season": 2007,
+        "chassis": "STR2",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2008,
+        "chassis": "STR2B / STR3",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2009,
+        "chassis": "STR4",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2010,
+        "chassis": "STR5",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2011,
+        "chassis": "STR6",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2012,
+        "chassis": "STR7",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2013,
+        "chassis": "STR8",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2014,
+        "chassis": "STR9",
+        "engine_supplier": "Renault",
+        "engine_model": "Energy F1-2014 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2015,
+        "chassis": "STR10",
+        "engine_supplier": "Renault",
+        "engine_model": "Energy F1-2015 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2016,
+        "chassis": "STR11",
+        "engine_supplier": "Ferrari",
+        "engine_model": "060 (2015-spec) 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2017,
+        "chassis": "STR12",
+        "engine_supplier": "Toro Rosso (Renault)",
+        "engine_model": "R.E.17 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2018,
+        "chassis": "STR13",
+        "engine_supplier": "Honda",
+        "engine_model": "RA618H 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2019,
+        "chassis": "STR14",
+        "engine_supplier": "Honda",
+        "engine_model": "RA619H 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "mf1",
+    "name": "MF1",
+    "name_cn": "\u7c73\u5fb7\u5170\u8f66\u961f (MF1)",
+    "nationality": "Russian",
+    "nationality_cn": "\u4fc4\u7f57\u65af",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2006
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 0.0,
+    "seasons_history": [
+      {
+        "season": 2006,
+        "position": "10",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2006,
+        "chassis": "M16",
+        "engine_supplier": "Toyota",
+        "engine_model": "Toyota RVX-06 2.4 V8",
+        "engine_era": "2006-2013"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "super_aguri",
+    "name": "Super Aguri",
+    "name_cn": "\u8d85\u7ea7\u4e9a\u4e45\u91cc\u8f66\u961f",
+    "nationality": "Japanese",
+    "nationality_cn": "\u65e5\u672c",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2006,
+      2007,
+      2008
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 4.0,
+    "seasons_history": [
+      {
+        "season": 2006,
+        "position": "11",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2007,
+        "position": "9",
+        "points": 4.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2008,
+        "position": "11",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2006,
+        "chassis": "SA05 / SA06",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA806E 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2007,
+        "chassis": "SA07",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA807E 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2008,
+        "chassis": "SA08",
+        "engine_supplier": "Honda",
+        "engine_model": "Honda RA808E 2.4 V8",
+        "engine_era": "2006-2013"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "spyker_mf1",
+    "name": "Spyker MF1",
+    "name_cn": "Spyker MF1",
+    "nationality": "Dutch",
+    "nationality_cn": "\u8377\u5170",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2006
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 0.0,
+    "seasons_history": [
+      {
+        "season": 2006,
+        "position": "12",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [],
+    "drivers": []
+  },
+  {
+    "constructor_id": "spyker",
+    "name": "Spyker",
+    "name_cn": "\u4e16\u7235\u8f66\u961f",
+    "nationality": "Dutch",
+    "nationality_cn": "\u8377\u5170",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2007
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 1.0,
+    "seasons_history": [
+      {
+        "season": 2007,
+        "position": "10",
+        "points": 1.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2007,
+        "chassis": "F8-VII",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "force_india",
+    "name": "Force India",
+    "name_cn": "\u5370\u5ea6\u529b\u91cf\u8f66\u961f",
+    "nationality": "Indian",
+    "nationality_cn": "\u5370\u5ea6",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 6,
+    "poles": 1,
+    "points": 1098.0,
+    "seasons_history": [
+      {
+        "season": 2008,
+        "position": "10",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2009,
+        "position": "9",
+        "points": 13.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 1
+      },
+      {
+        "season": 2010,
+        "position": "7",
+        "points": 68.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2011,
+        "position": "6",
+        "points": 69.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2012,
+        "position": "7",
+        "points": 109.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2013,
+        "position": "6",
+        "points": 77.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2014,
+        "position": "6",
+        "points": 155.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2015,
+        "position": "5",
+        "points": 136.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2016,
+        "position": "4",
+        "points": 173.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      },
+      {
+        "season": 2017,
+        "position": "4",
+        "points": 187.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2018,
+        "position": "5",
+        "points": 111.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2008,
+        "chassis": "VJM01",
+        "engine_supplier": "Ferrari",
+        "engine_model": "Ferrari 056 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2009,
+        "chassis": "VJM02",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108W 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2010,
+        "chassis": "VJM03",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2011,
+        "chassis": "VJM04",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2012,
+        "chassis": "VJM05",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2013,
+        "chassis": "VJM06",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2014,
+        "chassis": "VJM07",
+        "engine_supplier": "Mercedes",
+        "engine_model": "PU106A Hybrid 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2015,
+        "chassis": "VJM08 / VJM08B",
+        "engine_supplier": "Mercedes",
+        "engine_model": "PU106B Hybrid 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2016,
+        "chassis": "VJM09",
+        "engine_supplier": "Mercedes",
+        "engine_model": "PU106C Hybrid 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2017,
+        "chassis": "VJM10",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M08 EQ Power+ 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2018,
+        "chassis": "VJM11",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M09 EQ Power+ 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "brawn",
+    "name": "Brawn",
+    "name_cn": "\u5e03\u6717 GP \u8f66\u961f",
+    "nationality": "British",
+    "nationality_cn": "\u82f1\u56fd",
+    "headquarters": "Brackley, Northamptonshire, United Kingdom",
+    "lineage": "Formed via management buyout of Honda Racing F1 Team by Ross Brawn in 2009; acquired by Mercedes-Benz in 2010",
+    "active_seasons": [
+      2009
+    ],
+    "championships": 1,
+    "championship_years": [
+      2009
+    ],
+    "wins": 8,
+    "podiums": 15,
+    "poles": 5,
+    "points": 172.0,
+    "seasons_history": [
+      {
+        "season": 2009,
+        "position": "1",
+        "points": 172.0,
+        "wins": 8,
+        "podiums": 15,
+        "poles": 5
+      }
+    ],
+    "cars": [
+      {
+        "season": 2009,
+        "chassis": "BGP 001",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108W 2.4 V8",
+        "engine_era": "2006-2013"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "mercedes",
+    "name": "Mercedes",
+    "name_cn": "\u6885\u8d5b\u5fb7\u65af\u8f66\u961f",
+    "nationality": "German",
+    "nationality_cn": "\u5fb7\u56fd",
+    "headquarters": "Brackley, Northamptonshire, United Kingdom",
+    "lineage": "Tyrrell Racing (1968-1998) -> British American Racing / BAR (1999-2005) -> Honda Racing (2006-2008) -> Brawn GP (2009) -> Mercedes GP (2010-present)",
+    "active_seasons": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "championships": 7,
+    "championship_years": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "wins": 109,
+    "podiums": 265,
+    "poles": 120,
+    "points": 7586.5,
+    "seasons_history": [
+      {
+        "season": 2010,
+        "position": "4",
+        "points": 214.0,
+        "wins": 0,
+        "podiums": 3,
+        "poles": 0
+      },
+      {
+        "season": 2011,
+        "position": "4",
+        "points": 165.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2012,
+        "position": "5",
+        "points": 142.0,
+        "wins": 1,
+        "podiums": 3,
+        "poles": 1
+      },
+      {
+        "season": 2013,
+        "position": "2",
+        "points": 360.0,
+        "wins": 3,
+        "podiums": 6,
+        "poles": 7
+      },
+      {
+        "season": 2014,
+        "position": "1",
+        "points": 701.0,
+        "wins": 16,
+        "podiums": 31,
+        "poles": 18
+      },
+      {
+        "season": 2015,
+        "position": "1",
+        "points": 703.0,
+        "wins": 16,
+        "podiums": 32,
+        "poles": 18
+      },
+      {
+        "season": 2016,
+        "position": "1",
+        "points": 765.0,
+        "wins": 19,
+        "podiums": 33,
+        "poles": 20
+      },
+      {
+        "season": 2017,
+        "position": "1",
+        "points": 668.0,
+        "wins": 12,
+        "podiums": 26,
+        "poles": 15
+      },
+      {
+        "season": 2018,
+        "position": "1",
+        "points": 655.0,
+        "wins": 11,
+        "podiums": 25,
+        "poles": 13
+      },
+      {
+        "season": 2019,
+        "position": "1",
+        "points": 739.0,
+        "wins": 15,
+        "podiums": 32,
+        "poles": 10
+      },
+      {
+        "season": 2021,
+        "position": "1",
+        "points": 613.5,
+        "wins": 9,
+        "podiums": 28,
+        "poles": 9
+      },
+      {
+        "season": 2022,
+        "position": "3",
+        "points": 515.0,
+        "wins": 1,
+        "podiums": 17,
+        "poles": 2
+      },
+      {
+        "season": 2023,
+        "position": "2",
+        "points": 409.0,
+        "wins": 0,
+        "podiums": 8,
+        "poles": 1
+      },
+      {
+        "season": 2024,
+        "position": "4",
+        "points": 468.0,
+        "wins": 4,
+        "podiums": 9,
+        "poles": 4
+      },
+      {
+        "season": 2025,
+        "position": "2",
+        "points": 469.0,
+        "wins": 2,
+        "podiums": 12,
+        "poles": 2
+      }
+    ],
+    "cars": [
+      {
+        "season": 2010,
+        "chassis": "MGP W01",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2011,
+        "chassis": "MGP W02",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2012,
+        "chassis": "MGP W03",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2013,
+        "chassis": "MGP W04",
+        "engine_supplier": "Mercedes",
+        "engine_model": "Mercedes FO 108 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2014,
+        "chassis": "F1 W05 Hybrid",
+        "engine_supplier": "Mercedes",
+        "engine_model": "PU106A Hybrid 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2015,
+        "chassis": "F1 W06 Hybrid",
+        "engine_supplier": "Mercedes",
+        "engine_model": "PU106B Hybrid 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2016,
+        "chassis": "F1 W07 Hybrid",
+        "engine_supplier": "Mercedes",
+        "engine_model": "PU106C Hybrid 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2017,
+        "chassis": "F1 W08 EQ Power+",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M08 EQ Power+ 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2018,
+        "chassis": "F1 W09 EQ Power+",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M09 EQ Power+ 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2019,
+        "chassis": "F1 W10 EQ Power+",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M10 EQ Power+ 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2020,
+        "chassis": "F1 W11 EQ Performance",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M11 EQ Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2021,
+        "chassis": "F1 W12 E Performance",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M12 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2022,
+        "chassis": "F1 W13 E Performance",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M13 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2023,
+        "chassis": "F1 W14 E Performance",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M14 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2024,
+        "chassis": "F1 W15 E Performance",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M15 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2025,
+        "chassis": "F1 W16 E Performance",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M16 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "lotus_racing",
+    "name": "Lotus",
+    "name_cn": "\u8def\u7279\u65af\u8f66\u961f",
+    "nationality": "Malaysian",
+    "nationality_cn": "\u9a6c\u6765\u897f\u4e9a",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2010,
+      2011
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 0.0,
+    "seasons_history": [
+      {
+        "season": 2010,
+        "position": "10",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2011,
+        "position": "10",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2010,
+        "chassis": "T121",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CA2010",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2011,
+        "chassis": "T122",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27",
+        "engine_era": "2006-2013"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "hrt",
+    "name": "HRT",
+    "name_cn": "HRT \u8f66\u961f (\u897f\u65af\u73ed\u5c3c\u4e9a)",
+    "nationality": "Spanish",
+    "nationality_cn": "\u897f\u73ed\u7259",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2010,
+      2011,
+      2012
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 0.0,
+    "seasons_history": [
+      {
+        "season": 2010,
+        "position": "11",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2011,
+        "position": "11",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2012,
+        "position": "12",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2010,
+        "chassis": "F110",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CA2010 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2011,
+        "chassis": "F111",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CA2010 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2012,
+        "chassis": "F112",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CA2010 2.4 V8",
+        "engine_era": "2006-2013"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "virgin",
+    "name": "Virgin",
+    "name_cn": "\u7ef4\u73cd\u8f66\u961f",
+    "nationality": "British",
+    "nationality_cn": "\u82f1\u56fd",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2010,
+      2011
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 0.0,
+    "seasons_history": [
+      {
+        "season": 2010,
+        "position": "12",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2011,
+        "position": "12",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2010,
+        "chassis": "VR-01",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CA2010 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2011,
+        "chassis": "VR-02",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CA2010 2.4 V8",
+        "engine_era": "2006-2013"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "lotus_f1",
+    "name": "Lotus F1",
+    "name_cn": "\u8def\u7279\u65af F1 \u8f66\u961f",
+    "nationality": "British",
+    "nationality_cn": "\u82f1\u56fd",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2012,
+      2013,
+      2014,
+      2015
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 2,
+    "podiums": 18,
+    "poles": 0,
+    "points": 706.0,
+    "seasons_history": [
+      {
+        "season": 2012,
+        "position": "4",
+        "points": 303.0,
+        "wins": 1,
+        "podiums": 9,
+        "poles": 0
+      },
+      {
+        "season": 2013,
+        "position": "4",
+        "points": 315.0,
+        "wins": 1,
+        "podiums": 8,
+        "poles": 0
+      },
+      {
+        "season": 2014,
+        "position": "8",
+        "points": 10.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2015,
+        "position": "6",
+        "points": 78.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2012,
+        "chassis": "E21",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27-2012 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2013,
+        "chassis": "E22",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27-2013 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2014,
+        "chassis": "E22",
+        "engine_supplier": "Renault",
+        "engine_model": "Energy F1-2014 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2015,
+        "chassis": "E23 Hybrid",
+        "engine_supplier": "Mercedes",
+        "engine_model": "PU106B Hybrid 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "caterham",
+    "name": "Caterham",
+    "name_cn": "\u5361\u7279\u6c49\u59c6\u8f66\u961f",
+    "nationality": "Malaysian",
+    "nationality_cn": "\u9a6c\u6765\u897f\u4e9a",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2012,
+      2013,
+      2014
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 0.0,
+    "seasons_history": [
+      {
+        "season": 2012,
+        "position": "10",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2013,
+        "position": "11",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2014,
+        "position": "11",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2012,
+        "chassis": "CT01",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2013,
+        "chassis": "CT02",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault RS27",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2014,
+        "chassis": "CT05",
+        "engine_supplier": "Renault",
+        "engine_model": "Energy F1-2014 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "marussia",
+    "name": "Marussia",
+    "name_cn": "\u739b\u9c81\u897f\u4e9a\u8f66\u961f",
+    "nationality": "Russian",
+    "nationality_cn": "\u4fc4\u7f57\u65af",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2012,
+      2013,
+      2014
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 2.0,
+    "seasons_history": [
+      {
+        "season": 2012,
+        "position": "11",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2013,
+        "position": "10",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2014,
+        "position": "9",
+        "points": 2.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2012,
+        "chassis": "MR01",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CA2010 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2013,
+        "chassis": "MR02",
+        "engine_supplier": "Cosworth",
+        "engine_model": "Cosworth CA2010 2.4 V8",
+        "engine_era": "2006-2013"
+      },
+      {
+        "season": 2014,
+        "chassis": "MR03",
+        "engine_supplier": "Ferrari",
+        "engine_model": "059/3 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "manor",
+    "name": "Manor Marussia",
+    "name_cn": "\u5e84\u56ed\u8f66\u961f (Manor)",
+    "nationality": "British",
+    "nationality_cn": "\u82f1\u56fd",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2015,
+      2016
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 1.0,
+    "seasons_history": [
+      {
+        "season": 2015,
+        "position": "10",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2016,
+        "position": "11",
+        "points": 1.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2015,
+        "chassis": "MR03B",
+        "engine_supplier": "Ferrari",
+        "engine_model": "059/3 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2016,
+        "chassis": "MRT05",
+        "engine_supplier": "Mercedes",
+        "engine_model": "PU106C Hybrid 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "haas",
+    "name": "Haas F1 Team",
+    "name_cn": "\u54c8\u65af\u8f66\u961f",
+    "nationality": "American",
+    "nationality_cn": "\u7f8e\u56fd",
+    "headquarters": "Kannapolis, North Carolina, USA & Banbury, UK",
+    "lineage": "Founded 2014 by Gene Haas, entered F1 in 2016 with technical partnership with Ferrari and Dallara",
+    "active_seasons": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 383.0,
+    "seasons_history": [
+      {
+        "season": 2016,
+        "position": "8",
+        "points": 29.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2017,
+        "position": "8",
+        "points": 47.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2018,
+        "position": "6",
+        "points": 93.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2019,
+        "position": "9",
+        "points": 28.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2021,
+        "position": "10",
+        "points": 0.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2022,
+        "position": "8",
+        "points": 37.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2023,
+        "position": "10",
+        "points": 12.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2024,
+        "position": "7",
+        "points": 58.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2025,
+        "position": "8",
+        "points": 79.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2016,
+        "chassis": "VF-16",
+        "engine_supplier": "Ferrari",
+        "engine_model": "061 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2017,
+        "chassis": "VF-17",
+        "engine_supplier": "Ferrari",
+        "engine_model": "062 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2018,
+        "chassis": "VF-18",
+        "engine_supplier": "Ferrari",
+        "engine_model": "063 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2019,
+        "chassis": "VF-19",
+        "engine_supplier": "Ferrari",
+        "engine_model": "064 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2020,
+        "chassis": "VF-20",
+        "engine_supplier": "Ferrari",
+        "engine_model": "065 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2021,
+        "chassis": "VF-21",
+        "engine_supplier": "Ferrari",
+        "engine_model": "065/6 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2022,
+        "chassis": "VF-22",
+        "engine_supplier": "Ferrari",
+        "engine_model": "066/7 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2023,
+        "chassis": "VF-23",
+        "engine_supplier": "Ferrari",
+        "engine_model": "066/10 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2024,
+        "chassis": "VF-24",
+        "engine_supplier": "Ferrari",
+        "engine_model": "066/12 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2025,
+        "chassis": "VF-25",
+        "engine_supplier": "Ferrari",
+        "engine_model": "066/13 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "racing_point",
+    "name": "Racing Point",
+    "name_cn": "\u8d5b\u70b9\u8f66\u961f",
+    "nationality": "British",
+    "nationality_cn": "\u82f1\u56fd",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2019
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 73.0,
+    "seasons_history": [
+      {
+        "season": 2019,
+        "position": "7",
+        "points": 73.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2019,
+        "chassis": "RP19",
+        "engine_supplier": "BWT Mercedes",
+        "engine_model": "BWT Mercedes (M10) 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2020,
+        "chassis": "RP20",
+        "engine_supplier": "BWT Mercedes",
+        "engine_model": "BWT Mercedes (M11) 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "alfa",
+    "name": "Alfa Romeo",
+    "name_cn": "Alfa Romeo",
+    "nationality": "Swiss",
+    "nationality_cn": "\u745e\u58eb",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 0,
+    "poles": 0,
+    "points": 141.0,
+    "seasons_history": [
+      {
+        "season": 2019,
+        "position": "8",
+        "points": 57.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2021,
+        "position": "9",
+        "points": 13.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2022,
+        "position": "6",
+        "points": 55.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2023,
+        "position": "9",
+        "points": 16.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [],
+    "drivers": []
+  },
+  {
+    "constructor_id": "alpine",
+    "name": "Alpine F1 Team",
+    "name_cn": "Alpine\u8f66\u961f (\u963f\u5c14\u6d3e)",
+    "nationality": "French",
+    "nationality_cn": "\u6cd5\u56fd",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 1,
+    "podiums": 6,
+    "poles": 0,
+    "points": 535.0,
+    "seasons_history": [
+      {
+        "season": 2021,
+        "position": "5",
+        "points": 155.0,
+        "wins": 1,
+        "podiums": 2,
+        "poles": 0
+      },
+      {
+        "season": 2022,
+        "position": "4",
+        "points": 173.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2023,
+        "position": "6",
+        "points": 120.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      },
+      {
+        "season": 2024,
+        "position": "6",
+        "points": 65.0,
+        "wins": 0,
+        "podiums": 2,
+        "poles": 0
+      },
+      {
+        "season": 2025,
+        "position": "10",
+        "points": 22.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2021,
+        "chassis": "A521",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault E-Tech 20B 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2022,
+        "chassis": "A522",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault E-Tech RE22 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2023,
+        "chassis": "A523",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault E-Tech RE23 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2024,
+        "chassis": "A524",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault E-Tech RE24 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2025,
+        "chassis": "A525",
+        "engine_supplier": "Renault",
+        "engine_model": "Renault E-Tech RE25 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "alphatauri",
+    "name": "AlphaTauri",
+    "name_cn": "AlphaTauri\u8f66\u961f (\u5c0f\u7ea2\u725b)",
+    "nationality": "Italian",
+    "nationality_cn": "\u610f\u5927\u5229",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2021,
+      2022,
+      2023
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 1,
+    "poles": 0,
+    "points": 202.0,
+    "seasons_history": [
+      {
+        "season": 2021,
+        "position": "6",
+        "points": 142.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2022,
+        "position": "9",
+        "points": 35.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2023,
+        "position": "8",
+        "points": 25.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2020,
+        "chassis": "AT01",
+        "engine_supplier": "Honda",
+        "engine_model": "RA620H 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2021,
+        "chassis": "AT02",
+        "engine_supplier": "Honda",
+        "engine_model": "RA621H 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2022,
+        "chassis": "AT03",
+        "engine_supplier": "Red Bull Powertrains (Honda)",
+        "engine_model": "RBPTH001 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2023,
+        "chassis": "AT04",
+        "engine_supplier": "Honda RBPT",
+        "engine_model": "Honda RBPTH001 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "aston_martin",
+    "name": "Aston Martin",
+    "name_cn": "\u963f\u65af\u987f\u00b7\u9a6c\u4e01\u8f66\u961f",
+    "nationality": "British",
+    "nationality_cn": "\u82f1\u56fd",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 9,
+    "poles": 0,
+    "points": 595.0,
+    "seasons_history": [
+      {
+        "season": 2021,
+        "position": "7",
+        "points": 77.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      },
+      {
+        "season": 2022,
+        "position": "7",
+        "points": 55.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2023,
+        "position": "5",
+        "points": 280.0,
+        "wins": 0,
+        "podiums": 8,
+        "poles": 0
+      },
+      {
+        "season": 2024,
+        "position": "5",
+        "points": 94.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2025,
+        "position": "7",
+        "points": 89.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2021,
+        "chassis": "AMR21",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M12 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2022,
+        "chassis": "AMR22",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M13 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2023,
+        "chassis": "AMR23",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M14 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2024,
+        "chassis": "AMR24",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M15 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2025,
+        "chassis": "AMR25",
+        "engine_supplier": "Mercedes",
+        "engine_model": "M16 E Performance 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": []
+  },
+  {
+    "constructor_id": "rb",
+    "name": "RB F1 Team",
+    "name_cn": "\u6781\u901f\u98de\u9a70 RB (VCARB)",
+    "nationality": "Italian",
+    "nationality_cn": "\u610f\u5927\u5229",
+    "headquarters": "N/A",
+    "lineage": null,
+    "active_seasons": [
+      2024,
+      2025
+    ],
+    "championships": 0,
+    "championship_years": [],
+    "wins": 0,
+    "podiums": 1,
+    "poles": 0,
+    "points": 138.0,
+    "seasons_history": [
+      {
+        "season": 2024,
+        "position": "8",
+        "points": 46.0,
+        "wins": 0,
+        "podiums": 0,
+        "poles": 0
+      },
+      {
+        "season": 2025,
+        "position": "6",
+        "points": 92.0,
+        "wins": 0,
+        "podiums": 1,
+        "poles": 0
+      }
+    ],
+    "cars": [
+      {
+        "season": 2024,
+        "chassis": "VCARB 01",
+        "engine_supplier": "Honda RBPT",
+        "engine_model": "Honda RBPTH002 1.6 V6 T",
+        "engine_era": "2014-2025"
+      },
+      {
+        "season": 2025,
+        "chassis": "VCARB 02",
+        "engine_supplier": "Honda RBPT",
+        "engine_model": "Honda RBPTH003 1.6 V6 T",
+        "engine_era": "2014-2025"
+      }
+    ],
+    "drivers": []
+  }
+]
